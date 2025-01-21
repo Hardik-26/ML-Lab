@@ -1,0 +1,1002 @@
+Customer Name,Customer_Address,Company Name,Claim Reason,Data confidentiality,Claim Amount,Category Premium,Premium Ratio,Claim Request output,BMI,Churn
+Christine Payne,"7627 Anderson Rest Apt. 265,Lake Heather, DC 34200","Williams, Henderson and Perez",Travel,Low,377,4794,0.078639967,No,21,Yes
+Tony Fernandez,"3953 Cindy Brook Apt. 147,East Lindatown, TN 45491",Moore-Goodwin,Medical,High,1440,14390,0.100069493,No,24,Yes
+Christopher Kim,"8693 Walters Mountains,South Tony, TX 88407",Smith-Holmes,Phone,Medium,256,1875,0.136533333,No,,Yes
+Nicole Allen,"56926 Webster Coves,Shawnmouth, NV 04853",Harrell-Perez,Phone,Medium,233,1875,0.124266667,No,24,Yes
+Linda Cruz,"489 Thomas Forges Apt. 305,Jesseton, GA 36765","Simpson, Kramer and Hughes",Phone,Medium,239,1875,0.127466667,No,21,Yes
+Jennifer Kim,"USCGC Brown,FPO AE 32160",Pace-Nelson,Medical,High,1632,14390,0.113412092,No,28,No
+James Nguyen,"621 Heath Place,North John, AZ 97103",Smith LLC,Medical,High,2252,14390,0.156497568,No,24,Yes
+Desiree Ponce,"652 Lisa Trafficway,Laurenville, NC 87812",Porter Ltd,Other,Very low,37,399,0.09273183,No,25,No
+Jordan Johnston,"1553 Sherry Forest Apt. 406,Thomasborough, FL 28722","Eaton, Maddox and Jennings",Phone,Medium,224,1875,0.119466667,No,27,No
+Michelle Williams,"1973 Martin Stravenue Apt. 630,Thompsonburgh, RI 00686",,Medical,High,1982,14390,0.137734538,No,27,No
+Brandon Aguilar,"757 Maurice Estates,East William, NV 34000",Mckee Ltd,Phone,Medium,226,,0.120533333,No,26,No
+Angela Davis,"4105 Houston Pass Apt. 327,Philiphaven, VA 72107",Wall-Jackson,,Very low,63,399,0.157894737,No,20,Yes
+Leah Jones,"890 Porter Bypass Apt. 895,Thompsonshire, ME 60082","Kelly, Green and Campbell",Phone,Medium,238,1875,0.126933333,No,23,Yes
+Paula Harris,"504 Caroline Camp Suite 539,Port Charlotteton, CA 93241",King LLC,Other,Very low,67,399,0.167919799,No,20,Yes
+Jeremiah Willis,"800 Dean Unions Apt. 437,Nunezchester, PA 72743",Callahan Inc,Medical,High,2193,14390,0.152397498,No,26,No
+Kevin Kim,"5090 Jacqueline Land Suite 039,Raybury, SD 73114",,Medical,High,1717,14390,0.119318972,No,25,No
+Michael Rose,"1947 Sanchez Summit,Adamfort, OH 33706",Rhodes-Allen,Medical,High,2159,14390,0.150034746,No,18,Yes
+Sherri Aguilar,"51054 Jasmine Gateway Apt. 170,New Deborahmouth, LA 38289",Richards-Ray,,High,1729,14390,0.120152884,No,26,No
+Larry Hernandez,"84060 Lowe Lake,South Kurt, VT 87319",Johnson-Sanchez,Medical,High,1946,14390,,No,25,No
+Taylor Martin,"5361 Suzanne Inlet Suite 926,Lake Kevin, NV 67583","Thompson, Cline and Petersen",Travel,Low,657,4794,0.137046308,No,26,No
+Melissa Moreno,"1682 Malone Wells,New Michael, DC 09281","Pittman, Jones and Boyd",Medical,High,1961,14390,0.136275191,No,24,Yes
+Douglas Walker,"23954 Melissa Stravenue Apt. 747,Normanborough, NV 96299",Wheeler Inc,Phone,Medium,207,1875,0.1104,No,20,Yes
+Brenda Mitchell,"968 Pena Road Apt. 826,Danielstad, GA 51762",Moran Group,Medical,High,1527,14390,0.106115358,No,27,No
+John Booker,"USNV Miller,FPO AA 32149",Burke-Craig,Medical,High,1869,14390,0.129881862,No,19,Yes
+Jessica Mitchell,"9311 Martinez Walk Suite 624,West Melissafort, PA 72118","Davila, English and Pope",Other,Very low,38,399,0.095238095,No,21,Yes
+Joshua Hawkins,"13729 Zachary Greens,North Mollyshire, OH 86863",Davis-Bradford,Medical,High,1526,14390,0.106045865,No,26,No
+Maria Carter,"282 Brad Bridge Apt. 952,Craigmouth, ME 06116","Murray, Bates and Holt",Medical,High,1636,14390,0.113690063,No,25,No
+Nicole Nelson,"123 Dennis Crossing,North Christina, KS 30854",Compton-Oliver,Medical,High,1650,14390,0.11466296,No,28,No
+Alexander Bailey,"5146 Griffith Falls Apt. 897,South Anthonyton, ID 17150",Williams-Jennings,Travel,Low,639,4794,0.133291615,No,27,No
+Robert Kelly,"17768 Myers Lodge,Lake Thomas, AL 97095","Harris, Cooper and Roberts",Phone,Medium,253,1875,0.134933333,No,,Yes
+Elizabeth Moore,"75412 Simmons Pass,Zimmermanberg, MD 18435",Patterson Inc,Other,Very low,49,399,0.122807018,No,27,No
+Sergio Tyler,"602 Jones Orchard,Port Dennismouth, MD 26560",Smith Group,Medical,High,2063,,0.143363447,No,23,Yes
+Isaac Allen,"2844 Walter Corners Apt. 136,Lopezton, OK 61441","Gray, Hanson and Hughes",,Low,724,4794,0.151022111,No,26,No
+Christina Marshall,"2942 Mckinney Hills,Rodriguezside, RI 30819","Kim, Webster and Dunn",Medical,High,2253,14390,0.15656706,No,20,Yes
+Kyle Chambers,"51668 Smith Overpass,Colemanshire, SC 79249","Parsons, Graves and Lewis",Other,Very low,27,399,0.067669173,No,21,Yes
+Jennifer Douglas,"7200 David Mill Suite 582,Sheilaside, AL 09345","Ray, Oneal and Davis",Travel,Low,419,4794,0.087400918,No,19,Yes
+David Singh,"9374 Carmen Divide Suite 610,Davismouth, NE 04003",Harris-Snyder,Travel,Low,733,4794,0.152899458,No,25,No
+Stephanie Johnson,"USNS Perez,FPO AE 44822","Evans, Martin and Pineda",Medical,High,1922,14390,0.133564976,No,27,No
+Cindy Stein,"4645 Amanda Junction Apt. 487,Port Danaborough, ME 03220",Lamb-Powell,Travel,Low,333,4794,0.069461827,No,20,Yes
+Omar Perry,"64123 Ford Creek,North Stevenfurt, IN 21647",Shah PLC,Medical,High,1669,14390,0.115983322,No,20,Yes
+Joseph Phillips,"467 Frank Heights Suite 429,Rodrigueztown, AR 29169",Young-Jensen,Other,Very low,2,399,0.005012531,Yes,28,No
+Nancy Smith,"8363 Timothy Trace Suite 720,Meganport, AL 18326",Johnson PLC,Phone,Medium,254,1875,0.135466667,No,24,Yes
+Amber Gilbert,"Unit 4548 Box 9786,DPO AP 55100","Smith, Morales and Warner",Medical,High,1506,14390,0.104656011,No,22,Yes
+Marcus Carpenter,"3166 Kelly Causeway Apt. 759,North Tammy, MI 72872",Owens and Sons,Medical,High,1868,14390,0.12981237,No,18,Yes
+Elizabeth Barton,"PSC 3454, Box 9552,APO AP 49508",Smith-Bradford,Medical,High,1975,14390,0.137248089,No,19,Yes
+Deborah Williams,"Unit 9325 Box 5611,DPO AA 35968",Torres Group,Travel,Low,687,4794,0.14330413,No,22,Yes
+Janet Dixon,"85198 Sanchez Tunnel,West Whitneyburgh, ME 91982",Phillips-Fischer,Travel,Low,893,4794,0.18627451,No,26,No
+Alexis Flowers,"012 Ann Estate,Timothyfurt, NE 51970",Sandoval-Carter,Travel,Low,,4794,,,23,Yes
+Peter Cruz,"6154 Garrett Trace Suite 751,Wattsshire, AR 48402",Holland-Smith,Other,Very low,40,399,0.100250627,No,24,Yes
+Douglas Gutierrez,"04315 Moore Ports Apt. 698,Schaefertown, NJ 07508","Alvarez, Caldwell and Parker",Phone,Medium,263,1875,0.140266667,,22,Yes
+Brenda Thomas,"8426 Julie Islands Suite 846,North Samantha, IN 65986",Parsons-Heath,Other,Very low,14,399,0.035087719,Yes,27,No
+Cynthia Hall,"5173 Rachel Inlet Suite 993,Perrymouth, IN 68192","Irwin, Allen and Collins",Other,Very low,15,399,0.037593985,Yes,28,No
+Michelle Gonzalez,"USS Mccall,FPO AE 08670",Torres Inc,Other,Very low,15,399,0.037593985,Yes,21,Yes
+Denise Rodriguez,"0802 Shelby Lights,Lake James, WV 96185","Hoover, Gutierrez and Ramirez",Other,Very low,93,399,0.233082707,No,18,Yes
+Olivia King,"PSC 2084, Box 5669,APO AP 67089",Martin and Sons,Phone,Medium,205,1875,0.109333333,No,18,Yes
+Carolyn Cantrell,"846 Cook Extension Apt. 946,Angelaland, AZ 73467",Hughes Inc,Travel,Low,400,4794,,No,25,No
+Jonathan Conway,"7612 Griffin Alley,New Williamshire, WA 48017","Olson, Davenport and Martinez",Travel,Low,791,4794,0.164997914,No,28,No
+Martin Berger,"817 Elizabeth Plaza Apt. 887,North Logan, CT 57894","Price, Molina and Graves",Travel,Low,608,4794,0.126825198,No,27,No
+Anita Ward,"PSC 1747, Box 4057,APO AP 19734",Tucker Inc,Other,Very low,79,399,0.197994987,No,26,No
+Timothy Strong,"958 Orr Motorway Suite 593,Lake Leslieburgh, WA 92159",Rangel Ltd,Phone,Medium,236,1875,0.125866667,No,18,Yes
+Christopher Young,"2974 Irwin Ford Suite 592,Lake Lori, VA 90698",Smith and Sons,Medical,High,1511,14390,0.105003475,No,26,No
+Julie Davis,"6637 Wyatt Stravenue,Reginaldfort, NE 16233","Brown, Hernandez and Smith",Travel,Low,370,4794,0.077179808,No,25,No
+Joshua Cox,"0666 Lisa Plains Apt. 985,New Sarah, ME 64132",Diaz-Harmon,Other,Very low,37,399,0.09273183,No,27,No
+Frank Hendricks,"637 Emily Mall Suite 707,New Johnton, AL 70600","Manning, Woods and Lang",Medical,High,1414,14390,0.098262682,No,21,Yes
+Kenneth Travis,"825 Johnson Gardens,Staceyton, OR 38101","Johnson, Stewart and Rodriguez",Medical,High,1438,14390,0.099930507,No,27,No
+Jacob Williams,"8069 Vasquez Vista,Billychester, MT 02947","King, Parker and Gates",Other,Very low,85,399,0.213032581,No,20,Yes
+Heather Weaver,"303 Ralph Freeway,Ginashire, SC 37475","Simmons, Smith and Brown",Phone,Medium,,,0.121066667,No,25,No
+Emily Mosley,"75984 Timothy Hollow Suite 021,Anthonyhaven, VA 18237",Brown and Sons,Medical,High,2285,14390,0.158790827,No,23,Yes
+Sarah Thomas,"539 Fischer Walk,Brockland, VA 05249",Jackson-Garcia,Medical,High,1592,14390,0.110632384,No,27,No
+Tiffany Wolf,"39939 Dwayne Grove Suite 042,West Michaelton, MO 04960",Wise-Pope,Travel,Low,850,4794,0.177304965,No,19,Yes
+Latasha Grant PhD,"7500 Heather Heights Suite 285,East Linda, AK 87802",Webster and Sons,Phone,Medium,204,1875,0.1088,No,20,Yes
+Nicholas Clark,"PSC 1865, Box 3733,APO AE 08643","Washington, Clark and Wilson",Medical,High,1758,14390,0.122168172,No,23,Yes
+Steven Hernandez,"6151 Tammy Street,West Brianton, OR 02311",Newton Inc,Medical,High,2221,14390,0.154343294,No,24,Yes
+Valerie Johnson,"6761 Tran Trail,Whiteville, CT 46265",Wells and Sons,Medical,High,2027,14390,0.14086171,No,23,Yes
+Corey Harrington,"Unit 7663 Box 4204,DPO AA 16871",Hernandez-Stark,Medical,High,2228,14390,0.154829743,No,21,Yes
+Kathy Moore,"39331 Cook Point,Hawkinsburgh, FL 68497","Dorsey, Johnson and Dyer",Phone,Medium,207,1875,0.1104,No,23,Yes
+Todd Bailey,"2278 Tyler Club,Howardside, WV 52207","Gonzalez, Mitchell and Thomas",Medical,High,1879,14390,0.130576789,No,18,Yes
+Larry Thomas,"Unit 2628 Box 6084,DPO AP 22391",Owens-Johnson,Phone,Medium,201,1875,0.1072,No,18,Yes
+Bernard White,"USS Rogers,FPO AE 81843",Garcia Inc,Medical,High,1967,14390,0.136692147,No,20,Yes
+Matthew Thomas,"8839 Bradshaw Path,Lake Jamesborough, MA 77379","Ferguson, Ramos and Reynolds",Travel,Low,834,4794,0.173967459,No,26,No
+Robert Nelson DVM,"86355 Zimmerman Mountain,Port Susanport, UT 64380",Coleman Group,Travel,Low,600,4794,0.125156446,No,26,No
+Mary Ross,"2334 Davidson Green Suite 046,Fergusonton, IL 67480",Gonzalez-Brooks,Phone,Medium,230,1875,0.122666667,No,21,Yes
+Gabrielle Fisher,"80884 Hart Rapid Apt. 504,Howeview, CT 82692",Meyer-Williams,Other,Very low,65,399,,No,28,No
+Jeffrey Davies,"10592 Brandon Fields,Port Helen, NH 21473",Fitzgerald-Jones,Medical,High,1321,14390,0.091799861,No,26,No
+Christopher Smith,"6770 Anderson Courts,South Samuel, MA 03824",Yang Group,Medical,High,1795,14390,0.124739402,No,21,Yes
+Bradley Thomas,"9987 Peterson Corners,Howellstad, CA 00675","Morrow, Marshall and Patel",Medical,High,1571,14390,0.109173037,No,21,Yes
+Abigail Gallagher,"464 Michelle Gateway,Schwartzfort, SD 61903",Stewart-Gay,Medical,High,2275,14390,0.1580959,No,20,Yes
+David Keller,"108 Natalie Wall,North Kristen, PA 62352",Wong-Allison,Medical,High,1479,14390,0.102779708,No,22,Yes
+Amanda Edwards,"8924 Jones Mills Suite 160,New Danielborough, NV 10388",Alexander-Green,Medical,High,1507,14390,0.104725504,No,25,No
+Chris Evans,"36617 Travis Track,Parkermouth, MA 39586",Hanson-Garcia,,Very low,44,399,0.110275689,No,27,No
+Brian Chen,"298 Brent Island Suite 535,East Krystal, AR 98436",Thompson PLC,Phone,Medium,239,,0.127466667,No,21,Yes
+Alyssa Schneider,"3749 Scott Mountain Apt. 346,Port Vincent, WA 64242",Phillips and Sons,Phone,Medium,225,1875,0.12,No,25,No
+Bryan Holder,"9402 Hernandez Junctions Suite 860,Travisstad, MA 36845",Stokes-Dennis,Medical,High,1363,14390,0.094718555,No,19,Yes
+Mr. Mark Gregory,"05239 Claire Flat Apt. 688,Jefferyland, WY 03770",Martinez PLC,Medical,,1731,14390,0.120291869,No,28,No
+Austin Wheeler,"USNS Davis,FPO AA 92326",Moore Inc,Medical,High,2079,14390,0.14447533,No,20,Yes
+Denise Jenkins,"077 Kurt Shoal Apt. 690,South Timothyshire, NE 49982",Harris-Fields,Phone,Medium,202,1875,0.107733333,No,26,No
+Larry Jackson,"71476 Jackson Brooks Apt. 014,Lake Alexandraside, IA 52854","Wagner, Young and Brennan",Phone,Medium,268,1875,0.142933333,No,26,No
+Paul Castro,"096 Jessica Knolls Suite 769,Angelahaven, WY 67077",Avery-Lee,Medical,High,2135,14390,0.148366921,No,20,Yes
+Angela Yu,"452 Harrell Ferry Apt. 179,Beanland, SD 34507",Wilson LLC,Phone,Medium,233,1875,0.124266667,No,18,Yes
+Debra Campbell,"18848 Benjamin Port Suite 185,Millershire, GA 42223","Payne, Doyle and Woods",Travel,Low,544,4794,0.113475177,No,20,Yes
+Matthew Norton,"USCGC Gallagher,FPO AE 44510",Smith and Sons,Medical,High,2097,14390,0.145726199,No,28,No
+Bianca Jimenez,"622 Robert Village Apt. 827,New Brandyhaven, VT 58471",Barr-Lopez,Medical,High,1527,14390,0.106115358,No,20,Yes
+Sheila Duarte,"45049 Christopher Ridges Suite 013,Proctorbury, DE 78889",Hopkins Group,Medical,High,1875,14390,0.130298819,No,25,No
+Brandi Ward,"Unit 1469 Box 3743,DPO AA 34735",Wang PLC,Medical,High,2041,14390,0.141834607,No,,Yes
+Christopher Miller,"0725 Miranda Vista Suite 288,Flemingberg, SD 17746","Keller, Kelley and Prince",Medical,High,2128,14390,0.147880473,No,,Yes
+Tom Thomas,"PSC 7781, Box 9633,APO AA 38469",Rodriguez-Cole,Medical,High,1645,14390,,No,,No
+Arthur Miranda,"439 Bolton Run,Davidfort, AZ 11417",Watson-Pittman,Phone,Medium,217,1875,,No,,Yes
+Audrey Gray,"25385 Nancy Junctions,Blackwellview, MN 50313",Franklin-Nelson,Medical,High,1566,14390,0.108825573,No,27,No
+David Smith,"17261 William Light Suite 016,Harperview, CA 23916",Ross Ltd,Travel,Low,821,4794,0.171255736,No,22,Yes
+Kevin Lester,"73092 Victoria Trafficway,Jennafurt, IA 61733",Peterson-Turner,Travel,Low,754,4794,0.157279933,No,20,Yes
+Anne Campbell,"520 Bailey Stream Suite 323,West Timothyfort, AR 03624",Johnson LLC,Travel,Low,773,4794,0.161243221,No,19,Yes
+Wesley Owens,"70902 Ewing Mountain Apt. 891,South Gabrielle, LA 12666","Pitts, Marquez and Jones",Medical,High,1400,14390,0.097289785,No,18,Yes
+Heidi Garcia,"8751 Justin Extensions,Tammyberg, MA 32760",Davis-Lowe,Medical,High,1917,14390,0.133217512,No,22,Yes
+Rebecca Davis,"476 Young Locks,Rogerbury, AK 26966",Mcneil-Wiggins,,High,1385,14390,0.096247394,No,19,Yes
+Manuel Wright,"9997 Emily Expressway Suite 132,New Lorettahaven, AL 22657",Brady-Martin,Medical,High,1340,14390,0.093120222,No,24,Yes
+Robert Wright,"592 Michael Ford Apt. 211,Port Kevinbury, TN 97670",Moss-Rose,Travel,Low,625,4794,0.130371297,No,28,No
+Andrew Brown,"6330 Brenda Greens,Bellfort, OR 15136",Swanson-Velazquez,Medical,High,1610,14390,0.111883252,No,20,Yes
+Kimberly Holmes,"PSC 3813, Box 4511,APO AP 93803",Harper-Torres,Travel,,463,4794,0.096579057,No,23,Yes
+Julie Alvarez,"21513 Mary Lakes Suite 087,Scottshire, WA 32893","Griffith, Cook and Cobb",Travel,Low,446,4794,0.093032958,No,18,Yes
+David Williams,"912 Rose Road Apt. 163,North Sarashire, WY 68029","Lee, Campbell and Garcia",Other,Very low,86,399,0.215538847,No,18,Yes
+Joseph Mcguire,"7066 Jessica Falls,Port Paulmouth, WA 08695",Orr-Gonzalez,Other,Very low,72,399,0.180451128,No,21,Yes
+Nancy Velez,"6794 Jason View Apt. 645,East Anthonyville, RI 01887","Williams, Garcia and Ramos",Medical,High,2264,14390,0.15733148,No,24,Yes
+Eric Jones,"762 Austin Bridge,Cindyland, LA 37505","Shaffer, Gibson and Strong",Medical,High,2161,14390,0.150173732,No,26,No
+Shannon Kelley,"28948 Martinez Fall,East Jonathanview, MO 63647",Deleon-Hess,Medical,High,1419,14390,0.098610146,,18,Yes
+Susan Francis,"980 Morgan Estates,East Maria, MN 83399",Carr-Wilkinson,Other,Very low,51,399,0.127819549,No,22,Yes
+Dakota Simmons,"74085 Castro Trace Suite 576,North Heidifort, WY 09254",Lloyd-Carlson,Medical,High,1915,14390,0.133078527,No,22,Yes
+Natasha Mccullough,"84348 Ramirez Estates,Andrewton, WA 06772","Cain, Moore and Turner",Phone,Medium,223,1875,0.118933333,No,25,No
+Karla Armstrong,"08753 Angela Plains,North Christopherstad, MT 31285",Johnson Ltd,Other,Very low,62,399,0.155388471,,20,
+James Taylor,"28711 Wendy Meadows,North Teresaville, TX 02028",Mcdowell Ltd,Medical,High,1562,14390,0.108547603,No,18,Yes
+Pamela Morse,"5727 Brad Hollow,Fieldsburgh, NY 06287","Duran, Lopez and Cooper",Medical,High,2011,14390,0.139749826,No,26,No
+Veronica Marshall,"264 Linda Trail Apt. 295,North Deborahside, OH 45703",Walsh-Price,Travel,Low,845,4794,0.176261994,No,25,No
+Brittany Jimenez,"1520 Hahn Burg,Jaredhaven, LA 32797",House and Sons,Medical,High,2255,14390,,No,20,Yes
+William Bird III,"3942 Kenneth Burgs Suite 777,Collinsview, AZ 02514",Weber-Perez,Other,Very low,33,399,0.082706767,No,19,Yes
+Heather Vasquez,"542 Nelson Crossing Suite 565,Newtonfurt, MT 82557",Davis Group,Other,Very low,85,399,0.213032581,No,19,Yes
+Roger White,"55381 Samantha Haven Suite 649,Amandamouth, WY 34915",Wells PLC,Other,Very low,30,399,0.07518797,No,19,Yes
+Theresa Williams,"2020 Zachary Common Apt. 827,Hayesstad, AZ 24536","Murray, Mcdonald and Pena",Medical,High,2166,14390,0.150521195,No,24,Yes
+Angela Valdez,"357 Bates Burgs,Wongstad, MA 49594",Freeman Group,Medical,High,2298,14390,0.159694232,No,20,Yes
+Jodi Thompson,"6573 Terri Summit Apt. 186,East Lynnberg, MD 19353",Holland Ltd,Medical,High,1398,14390,0.097150799,No,25,No
+Linda Smith,"3759 Jeremy Course,South Melissamouth, MO 54765",Walker-Watson,Travel,Low,548,4794,0.114309554,,28,No
+Brian Hernandez,"44965 David Locks Apt. 673,Scottfort, ID 12959","Wang, Dougherty and Holden",Other,Very low,95,399,0.238095238,No,26,No
+Matthew Lewis,"0783 Lopez Run,Courtneyhaven, NC 22625",Hart-Meyer,,High,1335,14390,0.092772759,No,,No
+John Taylor,"9585 Hunt Row,East Nathaniel, DC 77779",Brown-Bryan,Travel,Low,368,4794,0.07676262,,19,Yes
+Rebekah Williams,"5320 Esparza Grove,New James, IN 67405",Davis-Smith,Medical,High,1596,14390,0.110910354,No,26,No
+Jacob Fuentes,"2650 Dylan Tunnel,Paulburgh, TX 87173",Cochran Ltd,Other,Very low,74,399,0.185463659,No,26,No
+David Schroeder,"47159 Snow Springs,Garnerchester, MN 29998",Good Ltd,Medical,High,2024,14390,0.140653231,No,22,Yes
+Wendy Petty,"20924 Elizabeth Curve Apt. 862,Nicoleport, OK 02565",Fitzpatrick and Sons,Other,Very low,44,399,0.110275689,No,21,Yes
+Brandy Ritter,"37302 Shelia Forks Apt. 503,Conleyborough, TX 07632","Reynolds, Perez and Reed",Medical,High,1899,14390,0.131966644,No,22,Yes
+Marcus Ross,"0813 Rachael Fields,Smithstad, AZ 37150","Taylor, Zuniga and Mcdonald",Medical,High,2085,14390,0.144892286,No,24,Yes
+Adam Thomas,"6668 Gross Ramp,Dylanhaven, IA 71095",Lawson-Hernandez,Medical,High,1694,14390,0.117720639,No,23,Yes
+Kimberly Hughes,"81998 Erica Bridge,North Michael, SD 52197",Bean PLC,Medical,High,2165,14390,0.150451703,No,18,Yes
+Susan Gates,"8844 Carrillo Mountains Suite 497,Port Stephen, MS 93035",Dougherty-Hudson,Phone,Medium,203,1875,0.108266667,No,25,No
+Richard Mccarthy,"4172 Dawn Camp Suite 945,Lake Cynthia, ME 97571",Wu Ltd,Travel,Low,680,4794,0.141843972,No,26,No
+Sandra Hampton,"4677 Alyssa Walks,Port Beth, IA 23365",Stafford-Martinez,Medical,High,2157,14390,0.149895761,No,20,Yes
+Elizabeth Powell,"032 Parrish Camp,Grahamport, WA 18255",Martinez Group,Medical,High,1638,14390,0.113829048,No,20,Yes
+Brandi Crosby,"2591 Tanya Extension Suite 865,Brandonville, MA 52263","Johnson, Anderson and Santos",Medical,High,1462,14390,0.101598332,No,23,Yes
+Kathy Jensen,"Unit 1267 Box 3009,DPO AA 72627",Thomas-Vasquez,Medical,High,1916,14390,0.133148019,No,24,Yes
+Alexandra Carter,"4140 Anthony Crest Suite 839,Dawnborough, ND 46927",Briggs-Walker,Medical,High,1859,14390,0.129186935,No,28,No
+Heather Wells,"7898 Henderson Trail,Lake Sarahside, MT 00796",King-Jackson,Travel,Low,602,4794,,No,21,Yes
+Peter Jones,"560 Miranda Mall Apt. 007,Ramostown, MD 11198",Dean Inc,Medical,High,1393,14390,0.096803336,No,22,Yes
+John Nelson,"2050 Timothy Road Apt. 354,Alexiston, AL 85483","Kim, Copeland and Hurst",Medical,High,1616,14390,0.112300208,No,19,Yes
+Melissa Kennedy,"6530 Thompson Shore,Williamsonmouth, CT 52138","Medina, Henry and Glover",Medical,High,2281,14390,0.158512856,No,23,Yes
+Kristin Richmond,"110 Randy Grove,Olivialand, GA 38295",Garza LLC,,High,2266,14390,0.157470466,No,22,Yes
+Kaitlin Espinoza,"42558 Tyler Way,South Josephmouth, NJ 53106",Lawson Ltd,Medical,,1607,14390,0.111674774,No,27,No
+Dustin Thomas,"72592 Jason Curve,Veronicafurt, UT 93031",Smith PLC,Medical,High,1871,14390,0.130020848,No,27,No
+Michele Simpson,"2350 Smith Grove Suite 503,Barberberg, VT 82486","Smith, Gomez and Holmes",Phone,Medium,213,1875,0.1136,No,26,No
+Andrea Anderson,"080 Montoya Squares Suite 416,West Julia, MA 86837",Harris-Perez,Travel,Low,594,4794,0.123904881,No,26,No
+Kathy Hill,"472 Alejandro Corners,Davidland, LA 19195","Porter, Mckenzie and Johnson",Medical,High,1887,14390,0.131132731,No,22,Yes
+Anthony Conley,"67280 Alvarez Coves Suite 106,Katiefurt, MD 12754","Wood, Sullivan and Nelson",Other,Very low,40,399,0.100250627,No,19,
+Jennifer Fields,"5319 Shelton Fork Apt. 277,Jackfort, CA 53047","Phillips, Watkins and Rodriguez",Other,,71,399,0.177944862,No,27,
+Connie Hendrix,"19924 Makayla Crest,Lake Jonathanport, WY 05014",Vazquez-Hubbard,Medical,High,2041,14390,0.141834607,No,20,
+Jamie Howell MD,"USNV Butler,FPO AE 80242",Davis and Sons,Medical,High,1492,14390,0.103683113,No,26,
+Alicia Beard,"8088 Monique Crescent Suite 335,Diazfurt, NH 30415",Walsh-Schroeder,Other,Very low,13,399,0.032581454,Yes,24,
+Leonard Lewis,"6790 Benjamin Mountains,Tinafurt, ND 77618","Chavez, Moore and Romero",Medical,High,1354,14390,0.09409312,No,25,
+David Hendricks,"8567 Rice Flat,New Ashley, VT 87697",Bradley and Sons,Phone,Medium,213,1875,0.1136,No,20,
+Michael Davis,"5225 Griffin Stravenue Apt. 906,Carlshire, IL 66889","Williams, Robinson and Miller",Medical,High,1608,14390,0.111744267,No,24,
+Daniel Jensen,"8477 Cox Extension Apt. 006,Johnfort, IN 38646",Garza LLC,Medical,High,2179,14390,0.1514246,No,19,Yes
+Samantha Miles,"Unit 1520 Box 7306,DPO AE 97374",Rogers PLC,Other,Very low,17,399,0.042606516,Yes,27,No
+Stacy White,"Unit 6733 Box 5412,DPO AE 76988",Cohen-Chaney,Medical,High,1855,14390,0.128908965,No,26,No
+Cody Meza,"45334 Jessica Landing,Kelleyborough, MO 33100",Santos-Carney,Other,Very low,74,399,0.185463659,No,26,No
+Manuel Gonzales,"Unit 0300 Box 1242,DPO AP 24345",Pierce Group,Medical,High,1671,14390,0.116122307,No,22,Yes
+Brandon Compton,"54919 Dylan Walks Apt. 001,Sotochester, DE 02967","Walker, Brown and Lawson",Medical,High,1413,14390,0.09819319,No,27,No
+Justin Briggs,"735 Vanessa Divide,South Curtis, NV 02185","Perez, Brown and Lee",Medical,High,1706,14390,0.118554552,No,21,Yes
+Mackenzie Riley,"6990 Johnson Street Suite 627,West Stacyton, MN 21175","Morales, Flores and Hernandez",,High,1652,14390,0.114801946,No,27,No
+Robert Nunez,"5014 Kristina Camp Apt. 282,Kennedyside, NH 80445",Gomez-Miranda,Medical,High,1752,14390,0.121751216,No,18,Yes
+Troy Johnson,"PSC 2651, Box 1927,APO AP 25897",Davenport-Bray,Travel,Low,849,4794,,No,28,No
+Daniel Shelton,"05581 Smith Alley,North James, UT 59297","Smith, Moore and Mclaughlin",Other,Very low,75,399,0.187969925,No,19,Yes
+John Armstrong,"471 Sellers Branch,Lake Stephanie, NM 28560",Riley-Kelley,Other,Very low,54,399,0.135338346,No,25,No
+Joseph Luna,"9947 Michelle Point Apt. 532,Patricktown, CO 61940","Bryant, Brown and Peterson",Medical,High,1997,14390,0.138776928,No,24,Yes
+Natalie Martinez,"00761 Cox Meadow Suite 860,Port Melissachester, AL 94988","Johnson, Brown and Marshall",Medical,High,1531,14390,0.106393329,No,25,No
+Diana Guerra,"6327 Mitchell Crossing Apt. 358,Valeriestad, ID 24649",Arnold and Sons,Travel,Low,300,4794,0.062578223,No,23,Yes
+Cody Ramirez,"13001 Jesus Causeway,Sarahfurt, UT 39717",Jackson Inc,Travel,Low,783,4794,0.163329161,No,26,No
+Brandon Bautista,"91932 Barbara Plains,South Dustin, CO 39764","Rhodes, Lyons and Foster",Medical,High,2152,14390,0.149548297,No,25,No
+Kristina Rodgers,"299 Chandler Squares,Michaeltown, ND 88768","Dyer, Lewis and Odonnell",Travel,Low,792,4794,0.165206508,No,25,No
+Kimberly Gentry,"883 Laura Mountain Apt. 628,Port Tammymouth, VT 56350",Morrow and Sons,Medical,High,1395,14390,0.096942321,No,23,Yes
+Christine Cobb,"2538 Scott Views,New Chadmouth, KY 24184",Benson PLC,Medical,High,1916,14390,0.133148019,No,23,Yes
+Mark Mcfarland,"40621 Marquez Street,Jonesberg, MI 36351",Fox Ltd,Other,Very low,8,399,0.020050125,Yes,22,Yes
+Todd Shelton,"1375 Robert Burgs Apt. 206,Lawrencechester, IL 82686","Knight, Beasley and Stevens",Medical,High,1405,14390,0.097637248,No,,
+Joseph Nelson,"380 Gardner Trail Apt. 261,Lindaberg, LA 50829","Dixon, Turner and Smith",Medical,High,1797,14390,0.124878388,No,,
+Alexander Ford Jr.,"490 Carlson Throughway,Keithshire, GA 39435","Harper, Sosa and Bell",Travel,Low,402,4794,0.083854819,No,,
+Timothy Robinson,"413 Ritter Manors Suite 990,West Allenstad, NC 19211",Byrd Inc,Other,Very low,70,399,0.175438596,No,,
+Leah Russell,"46118 Timothy Pass Suite 490,East Brianshire, CO 54826","Robinson, Strickland and Rivera",Travel,Low,865,4794,0.180433876,No,20,Yes
+Mark Christensen,"783 Jeremy Circles Suite 968,Christopherberg, LA 64157",Mcguire Ltd,Medical,High,1562,14390,0.108547603,No,20,Yes
+Christine Silva,"38576 Lyons Neck Apt. 041,Lake Dennisland, TX 56330",Vincent-Richard,Phone,Medium,242,1875,0.129066667,No,28,No
+Courtney Wade,"514 Haley Court Suite 717,North Jennifer, DC 54795",Taylor-Briggs,Travel,Low,814,4794,0.169795578,No,26,No
+Christopher Whitney,"9067 West Mill Apt. 451,Martinberg, SC 16743","Chen, Gibson and Richardson",Medical,High,1630,14390,0.113273106,No,26,No
+Ashley May,"54948 Kevin Cape Suite 565,New Mitchell, MT 53803",Williams-Barker,Medical,High,1810,14390,0.125781793,No,26,No
+Mark Grant,"Unit 0991 Box 2977,DPO AE 09978","Holt, Wright and Thomas",,High,1707,14390,0.118624044,No,19,Yes
+Amy Crawford,"552 Welch Creek Suite 334,Leonmouth, IN 94223",Key LLC,Medical,High,1345,14390,0.093467686,No,20,Yes
+James Norman,"675 Sarah Parkways,Ashleymouth, WI 64409","Ramirez, Valencia and Walker",Other,Very low,9,399,0.022556391,Yes,18,Yes
+Lisa Gray,"4179 Rivas Estates,Deanburgh, CA 98747",Pruitt Group,Medical,High,2048,14390,0.142321056,No,21,Yes
+Eric Green,"9753 Ware Glen Suite 775,Amandachester, IN 02872",Castaneda Group,Medical,High,1845,14390,0.128214038,No,18,Yes
+Victor Lopez,"3324 Philip Trail,Alejandraborough, NE 35038",Lynch Ltd,Phone,Medium,203,1875,0.108266667,No,21,Yes
+Patricia Dean,"71182 Spears Row Suite 002,Port Lorimouth, OK 10036",Gomez Ltd,Medical,High,2054,14390,0.142738013,No,20,Yes
+Katie Anderson,"USNV Rose,FPO AP 66627",Singleton Group,Travel,Low,685,4794,0.142886942,No,24,Yes
+David White,"282 Benjamin Estate Suite 458,Jessicahaven, WA 62078","Ponce, Turner and Hicks",Medical,High,1590,14390,0.110493398,No,26,No
+Steven Briggs,"65718 Robert Hills,East Suzanne, AR 12089",White PLC,Other,Very low,39,399,0.097744361,No,25,No
+Ethan Black,"97524 Frank Radial Suite 588,New Patricia, FL 30186",Simon-Mack,Medical,High,1786,14390,0.124113968,No,20,Yes
+Sandra Decker,"185 Kristin Plains Suite 663,Lake Daniel, KS 42099",Munoz-Fisher,Medical,High,1653,14390,0.114871438,No,22,Yes
+Jonathan Nolan,"8175 Samuel Avenue Suite 917,Scottfurt, AK 14357",Ramirez-Mcclain,Medical,High,1458,14390,0.101320361,No,24,Yes
+Wesley Carroll,"2247 Kayla Terrace Suite 884,Heathertown, WV 77573",Clark LLC,Medical,High,1599,14390,0.111118833,No,28,No
+Sandy Bell,"35723 Stephanie Knolls Suite 302,North Brian, PA 34809","Ayala, Sanders and Schneider",Other,Very low,24,399,0.060150376,No,25,No
+John Friedman,"40556 Rodriguez Route,Heatherhaven, CO 08593",Lopez-Williams,Medical,High,2051,14390,0.142529534,No,20,Yes
+Leroy Scott,"486 Hoffman Motorway Apt. 591,East Georgefort, MD 79811",Brown and Sons,Medical,High,1903,14390,0.132244614,No,20,Yes
+Glenn Key,"0152 Smith Isle,South Markville, TN 44895","Strickland, Charles and Rodriguez",Medical,High,1876,14390,0.130368311,No,27,No
+Emily Brown,"80055 Sharon Highway,South Christopher, IA 01997",Guerrero Inc,Medical,High,1402,14390,0.09742877,No,26,No
+Richard Hall,"048 Wood Plains Suite 762,Youngport, WA 85943",Castro-Smith,Medical,High,1600,14390,0.111188325,No,23,Yes
+Sharon Bowers,"71162 Garcia Curve,Dennistown, UT 13817","Adams, Houston and Boone",Medical,High,1672,14390,0.1161918,No,25,No
+Robin Roberts,"7353 Lambert Lock Apt. 503,East Emilychester, MN 75511",Snyder LLC,Other,Very low,50,399,0.125313283,No,18,Yes
+Anthony Rogers,"3909 John Unions Suite 987,North Christina, CO 46805",Doyle-Powell,Medical,High,1987,14390,0.138082001,No,18,Yes
+Sean Grant,"33256 Gregory Trace Apt. 999,Catherineport, NV 66311","Ruiz, Hansen and Lynn",Medical,High,1590,14390,0.110493398,No,27,No
+Jessica Zimmerman,"99184 Martinez Roads,West Alanport, WA 43445","Hughes, Torres and Brown",Phone,Medium,203,1875,0.108266667,No,25,No
+Eugene Vaughan,"784 Donald Burgs,Andersonhaven, AL 16996",Hodge PLC,Phone,,226,1875,0.120533333,No,27,No
+Donna Long,"USNS Reynolds,FPO AP 56434","Bailey, Bautista and Hartman",Travel,,875,4794,0.182519816,No,27,No
+Jessica Love,"Unit 2641 Box 0241,DPO AE 30480",Mclaughlin PLC,,Very low,68,399,0.170426065,No,23,Yes
+Sabrina Bailey,"6111 Andrew Ports Apt. 976,East Fredstad, IL 17808","Trevino, Miller and Jones",Medical,High,1867,14390,0.129742877,No,20,Yes
+Cindy Campos,"08327 Tiffany Mount,Bensontown, WY 06584",Smith PLC,Medical,High,2011,14390,0.139749826,No,19,Yes
+Judy Henderson,"86701 Crawford Locks,Jonathantown, NE 12749",Galvan Inc,Medical,High,1519,14390,0.105559416,No,28,No
+Sean Chavez,"64760 Martinez Squares Suite 698,Rosalesbury, OR 78733",Krueger Ltd,Phone,Medium,265,1875,0.141333333,No,28,No
+Sierra Dunlap,"71742 Olivia Pine,Bethton, KY 67985",Buchanan-Tate,Medical,High,2270,14390,0.157748436,No,24,Yes
+Shawn Scott,"Unit 7525 Box 0733,DPO AA 76181",Kelly LLC,Phone,Medium,224,1875,0.119466667,No,19,Yes
+Laura Love,"64613 Jennifer Knoll Suite 926,East Anthonychester, WI 33006",May Ltd,Phone,Medium,227,1875,0.121066667,No,28,No
+Ann Dalton,"USNS Harris,FPO AA 22565","Lara, Marshall and Barnes",Phone,Medium,219,1875,0.1168,No,18,Yes
+Robert Cole,"240 Shepard Islands,East Joann, IL 33305",Zimmerman-Obrien,Phone,Medium,200,1875,0.106666667,No,25,No
+Timothy Ramirez,"66751 Bryan Corner Suite 551,South Sandra, CO 54250",Elliott Ltd,Phone,Medium,239,1875,0.127466667,No,20,Yes
+David Morales,"USNV Castro,FPO AP 85409",,Medical,High,1416,14390,0.098401668,No,23,Yes
+Jesus Myers,"75247 Banks Brooks Suite 420,South David, AK 40181",,Travel,Low,525,4794,0.10951189,No,23,Yes
+Heather Edwards,"030 Bowen Street,Joshuaborough, TX 49558",,Travel,Low,479,4794,0.099916562,No,21,Yes
+Matthew Sanders,"48859 Cory Green,Kramermouth, CA 75912",,Medical,High,1614,14390,0.112161223,No,20,Yes
+Vanessa Vasquez,"100 Golden Ramp Apt. 175,Lake Todd, ME 57423",,Medical,High,1445,14390,0.100416956,No,19,Yes
+Robert Santos,"071 Castillo Motorway,Tamarafurt, CA 22165",,Medical,High,1526,14390,0.106045865,No,19,Yes
+Ashley Brown,"PSC 7790, Box 6186,APO AA 79428",,Other,Very low,48,399,0.120300752,No,24,Yes
+Janet Frazier,"3680 Espinoza Ports,Bonillatown, MS 04093",Peters Ltd,Medical,High,1636,14390,0.113690063,No,28,No
+Matthew Brown,"69706 Walker Parkway,Alexandraborough, MD 55434","Cohen, Benton and Aguilar",Other,Very low,52,399,0.130325815,No,27,No
+Lisa Schmidt,"515 Heather Trafficway,West Nancy, AK 61570",Bartlett-Novak,Other,Very low,18,399,0.045112782,Yes,24,Yes
+Taylor Ochoa,"1270 Jason Mission,Robertside, CO 10112",Mcgee-Campbell,Other,Very low,14,399,0.035087719,Yes,24,Yes
+Christina Mcdowell,"717 Logan Inlet Apt. 768,East Melissa, MO 88168",Soto-Valentine,Other,Very low,24,399,0.060150376,No,22,Yes
+George Brown,"Unit 2664 Box 7032,DPO AE 22009",Harris Ltd,Medical,High,1493,14390,0.103752606,No,26,No
+Leslie Baldwin,"805 Allen Neck,Angelaberg, DC 51858","Anthony, Goodman and Maynard",Other,,44,399,0.110275689,No,28,No
+Ryan Jackson,"7157 Howard Knoll Suite 443,North Jamesmouth, DC 15038",Moore-Little,Other,Very low,83,399,0.20802005,No,26,No
+Christina Moore,"205 Lewis Bypass Apt. 031,West Tonyville, SD 41368",Murphy-Hamilton,Other,Very low,7,399,0.01754386,Yes,25,No
+Charles Joyce,"64106 Bailey Crescent,East Janice, WA 86569",Williams LLC,Medical,High,1566,14390,0.108825573,No,18,Yes
+Michael Baxter,"42231 Patrick Stravenue Suite 175,East Josephside, OK 56221","Hudson, Simpson and Lloyd",Phone,Medium,226,1875,0.120533333,No,22,Yes
+Justin Weaver,"97870 Ricky Lake Apt. 515,South Daniel, AR 91247","English, Ryan and Johnson",Medical,High,1373,14390,0.095413482,No,21,Yes
+Wendy Zavala,,Mccoy-Williams,Travel,Low,784,4794,0.163537756,No,21,Yes
+Christopher Quinn,,Hanson-Warren,Medical,High,1459,14390,0.101389854,No,27,No
+Susan Davis,,Smith Inc,Medical,High,2020,14390,0.140375261,No,18,Yes
+Tristan Jackson,,Fisher-Waters,Phone,Medium,257,1875,0.137066667,No,19,Yes
+Denise Swanson,,"Thompson, Delgado and Shepherd",Medical,High,2192,14390,0.152328006,No,20,Yes
+Jennifer Carr,,"Robinson, Kerr and Duran",Phone,Medium,200,1875,0.106666667,No,18,Yes
+Derrick Burke,,Hayden and Sons,Travel,Low,573,4794,0.119524406,No,18,Yes
+Ashley Moreno,,Wood Group,Phone,Medium,244,1875,0.130133333,No,21,Yes
+Matthew Brown,,Johnson-Schroeder,Medical,High,2057,14390,0.142946491,No,28,No
+Kayla Werner,,Adams-Gamble,Medical,High,1695,14390,0.117790132,No,18,Yes
+David Bell,,Rodriguez Ltd,Travel,Low,482,4794,0.100542345,No,27,No
+Taylor Garcia,,"Wang, Horne and Jennings",Phone,Medium,257,1875,0.137066667,No,23,Yes
+Michael Flynn,,Griffin Ltd,Medical,High,1351,14390,0.093884642,No,22,Yes
+Valerie Hester,,"Mckenzie, Casey and Moore",Travel,Low,758,4794,0.15811431,No,19,Yes
+John Valdez,,"Freeman, Porter and Johnson",Medical,High,1416,14390,0.098401668,No,21,Yes
+Mario Hernandez,,Davila-Berg,Phone,Medium,247,1875,0.131733333,No,19,Yes
+Christina Holloway,,Cruz-Chavez,Travel,Low,608,4794,0.126825198,No,19,Yes
+Steven Kennedy,,"Flores, Turner and Davis",Phone,Medium,206,1875,0.109866667,No,24,Yes
+Sarah Taylor,,Graves-Simpson,Phone,,264,1875,0.1408,No,21,Yes
+Allison Gilmore,,"Lee, Massey and Schroeder",,High,2006,14390,0.139402363,No,28,No
+Joanne Mcbride,,"Vazquez, Preston and Lucas",Medical,High,1661,14390,0.11542738,No,21,Yes
+Roger Campbell,,"Hunt, King and Johnson",Medical,High,1820,14390,0.12647672,No,19,Yes
+Christopher Mcknight,,"Bell, Simmons and Nolan",Other,Very low,15,399,0.037593985,Yes,27,No
+Jeffrey Martinez,,Boone PLC,Medical,High,1495,14390,0.103891591,No,24,Yes
+Lisa Daniels,,Alvarez Group,Medical,High,2080,14390,0.144544823,No,21,Yes
+Sandra Mcdaniel,,"Thompson, Becker and Green",Phone,Medium,202,1875,0.107733333,No,19,Yes
+Casey Mclean,"954 Kennedy Mountains,Jonathanside, UT 27943","Rogers, Stewart and Carter",Medical,High,1545,14390,0.107366227,No,19,Yes
+Christopher Coleman,"78796 Zimmerman Mount Suite 939,West Timothy, DC 94426",Smith Ltd,Medical,High,1319,14390,0.091660876,No,19,Yes
+Andrew Mcdonald,"472 Newton Avenue Apt. 913,Theodoreville, NM 91040",Curtis-Olson,Medical,High,1559,14390,0.108339124,No,23,Yes
+,"USNS Hall,FPO AE 23140","Sanders, Mata and Dickson",Travel,Low,621,4794,0.129536921,No,25,No
+,"23316 Nicholas Roads,Quinnberg, MD 41831",Bernard Ltd,Phone,Medium,254,1875,0.135466667,No,25,No
+,"54820 James Flats Apt. 214,New Gregborough, WY 66617",Moon Group,Medical,High,2089,14390,0.145170257,No,18,Yes
+,"831 Williams Station,Joannehaven, NC 55572",Myers Group,Medical,High,1650,14390,0.11466296,No,22,Yes
+,,Allen-Lewis,Travel,Low,458,4794,0.095536087,No,23,Yes
+,,Garza-Williams,Travel,Low,428,4794,0.089278264,No,25,No
+,,Howe-Hensley,Medical,High,2099,14390,0.145865184,No,27,No
+,,"Petersen, Harmon and Strickland",Medical,High,1367,14390,0.094996525,No,27,No
+,,"Jackson, Henry and Flores",Medical,High,2292,14390,0.159277276,No,28,No
+,,Singleton-Bailey,Medical,High,1637,14390,0.113759555,No,19,Yes
+,,Hernandez-Payne,Other,Very low,39,399,0.097744361,No,24,Yes
+,,Wilson-Benjamin,Phone,Medium,229,1875,0.122133333,No,25,No
+,,King and Sons,Other,Very low,65,399,0.162907268,No,27,No
+,,"Johnson, Maddox and Craig",Travel,,547,4794,0.11410096,No,26,No
+,,King-Walker,Other,Very low,85,399,0.213032581,No,24,Yes
+,,"Flores, Weaver and Reilly",Medical,High,1913,14390,0.132939541,No,28,No
+,,Sullivan-James,Medical,High,2111,14390,0.146699097,No,18,Yes
+,,Brown-Rodriguez,,High,1464,14390,0.101737318,No,18,Yes
+,,Lara-Walker,Medical,,2162,14390,0.150243224,No,21,Yes
+,,Davidson-Smith,Phone,Medium,226,1875,0.120533333,No,18,Yes
+,,Novak Inc,Phone,Medium,205,1875,0.109333333,No,24,Yes
+,,Lambert-Fischer,Other,Very low,29,399,0.072681704,No,20,Yes
+,,"Francis, Palmer and Payne",Medical,High,2018,14390,0.140236275,No,21,Yes
+,,Caldwell LLC,Medical,High,2221,14390,0.154343294,No,19,Yes
+,,Harrell-Phillips,Medical,High,2023,14390,0.140583739,No,21,Yes
+,,Morales-Lee,Travel,Low,379,4794,0.079057155,No,23,Yes
+,,"Valencia, Wilson and Pierce",Medical,High,2076,14390,0.144266852,No,19,Yes
+,,Abbott Ltd,Phone,Medium,263,1875,0.140266667,No,27,No
+,,"Briggs, Young and Green",Medical,High,1971,14390,0.136970118,No,18,Yes
+,,"Martinez, Ayers and Melton",Phone,Medium,224,1875,0.119466667,No,23,Yes
+,,Nguyen LLC,Phone,Medium,236,1875,0.125866667,No,21,Yes
+,,Hernandez-Arnold,Travel,Low,490,4794,0.102211097,No,26,No
+,,"Turner, Murphy and Figueroa",Phone,Medium,228,1875,0.1216,No,25,No
+,,Farrell Group,Medical,High,2206,14390,0.153300903,No,22,Yes
+,,Navarro Ltd,Medical,High,1313,14390,0.091243919,No,28,No
+,,Henderson-Perry,Other,Very low,18,399,0.045112782,Yes,21,Yes
+,,Whitney Inc,Travel,Low,623,4794,0.129954109,No,25,No
+,,Jones PLC,Phone,,268,1875,0.142933333,No,26,No
+,,Butler PLC,Other,Very low,29,399,0.072681704,No,19,Yes
+,,"Taylor, Woods and Dunn",Medical,High,1461,14390,0.101528839,No,22,Yes
+,,Smith-Stevens,Travel,Low,873,4794,0.182102628,No,24,Yes
+,,Hansen-Hart,Medical,High,2201,14390,0.15295344,No,20,Yes
+,,Hughes-Rush,Travel,Low,398,4794,0.083020442,No,23,Yes
+,,Jones Group,Other,Very low,80,399,0.200501253,No,19,Yes
+,,"Garrison, Evans and Alvarez",Medical,High,1694,14390,0.117720639,No,23,Yes
+,,"Russell, Rich and Rivera",Medical,High,1765,14390,0.122654621,No,24,Yes
+,,Douglas-Davidson,Medical,High,1871,14390,0.130020848,No,22,Yes
+,,Johnson PLC,Other,Very low,84,399,0.210526316,No,26,No
+,,Little-May,Medical,High,1705,14390,0.118485059,No,26,No
+,,Hansen-Whitehead,Travel,Low,587,4794,0.122444723,No,20,Yes
+,,Ortega-Boyd,Medical,High,2089,14390,0.145170257,No,26,No
+,,Rivers Group,Medical,High,1774,14390,0.123280056,No,21,Yes
+,,Burns-Torres,Phone,Medium,208,1875,0.110933333,No,24,Yes
+,,Hill Group,Other,Very low,31,399,0.077694236,No,19,Yes
+,,Cain-Zhang,Medical,High,1444,14390,0.100347464,No,22,Yes
+,,"Johnson, Harris and Parker",Phone,Medium,254,1875,0.135466667,No,28,No
+,,"Evans, Rogers and Freeman",Medical,High,2252,14390,0.156497568,No,25,No
+,,"Mayo, Hamilton and Booth",Medical,High,2284,14390,0.158721334,No,25,No
+,,Avery-Rubio,Medical,High,2119,14390,0.147255038,No,20,Yes
+,,Williams-Kennedy,Medical,High,1724,14390,0.11980542,No,26,No
+,,Cline-Cooper,Medical,High,1414,14390,0.098262682,No,22,Yes
+,,"Grant, Davis and Burns",Travel,,592,4794,0.123487693,No,19,Yes
+,,Bautista Ltd,Other,Very low,2,399,0.005012531,Yes,24,Yes
+,,"Williams, Jacobson and Thompson",Other,Very low,50,399,0.125313283,No,23,Yes
+,,"Bell, Baker and Bridges",Travel,Low,892,4794,0.186065916,No,19,Yes
+,,"Matthews, Martin and White",Medical,High,1989,14390,0.138220987,No,24,Yes
+,,Haynes-Duran,Medical,High,1789,14390,0.124322446,No,18,Yes
+,,Hicks and Sons,Medical,High,1361,14390,0.094579569,No,23,Yes
+,,Gilbert Group,Medical,High,1943,14390,0.135024322,No,21,Yes
+,,"Gallegos, Hoffman and Fitzgerald",Other,Very low,77,399,0.192982456,No,25,No
+,,"Fry, Boyd and Smith",Medical,High,1483,14390,0.103057679,No,18,Yes
+,,Simmons-Weber,,Low,650,4794,0.135586149,No,21,Yes
+,,Washington-Williamson,Phone,,250,1875,0.133333333,No,23,Yes
+,,Thomas PLC,Travel,Low,549,4794,0.114518148,No,23,Yes
+,,Stanley LLC,Medical,High,1348,14390,0.093676164,No,18,Yes
+,,"Rodriguez, Peterson and Banks",Other,Very low,35,399,0.087719298,No,26,No
+,,"Rowe, Perry and Kim",Medical,High,2013,14390,0.139888812,No,26,No
+,,"Hoffman, Kelly and Fitzgerald",Medical,High,1474,14390,0.102432245,No,23,Yes
+,,Williamson-Oconnell,Travel,Low,736,4794,0.15352524,No,27,No
+,,Morgan LLC,Medical,High,1412,14390,0.098123697,No,20,Yes
+,,Weaver-Smith,Medical,High,1754,14390,0.121890202,No,18,Yes
+,,Ho and Sons,Phone,Medium,235,1875,0.125333333,No,21,Yes
+,,"David, Douglas and Cox",Travel,Low,883,4794,0.184188569,No,24,Yes
+,,Martin-Byrd,Travel,Low,420,4794,0.087609512,No,27,No
+,,Mclean Group,Phone,Medium,234,1875,0.1248,No,19,Yes
+,,"Johnston, Garcia and Golden",Phone,,264,1875,0.1408,No,18,Yes
+,,Figueroa Inc,Medical,High,1921,14390,0.133495483,No,20,Yes
+,,Phillips-Sheppard,Medical,High,1772,14390,0.12314107,No,21,Yes
+,,"Wright, Sims and Schmidt",Medical,High,1388,14390,0.096455872,No,28,No
+,,Graham-Rivera,Medical,High,1529,14390,0.106254343,No,23,Yes
+,,"Ramirez, West and Smith",Phone,Medium,235,1875,0.125333333,No,23,Yes
+,,Tucker-Perkins,Medical,High,1827,14390,0.126963169,No,22,Yes
+,,Alvarez LLC,Phone,Medium,233,1875,0.124266667,No,27,No
+,,"Cook, Brown and Johnson",Medical,High,2173,14390,0.151007644,No,18,Yes
+,,"Walter, Gross and Wheeler",Phone,Medium,253,1875,0.134933333,No,24,Yes
+,,Evans-Hernandez,Medical,High,,14390,0.138707436,No,22,Yes
+,,Alvarez Ltd,Medical,High,,14390,0.136483669,No,18,Yes
+,,"Bryant, Clark and Hurley",Medical,High,,14390,0.133287005,No,28,No
+,,Martin PLC,Medical,High,,14390,0.135858235,No,26,No
+,,Greene PLC,Medical,High,,14390,0.093120222,No,23,Yes
+,,Nguyen Ltd,Medical,High,,14390,0.132592078,No,24,Yes
+,,Alvarez-Branch,Other,Very low,14,399,0.035087719,Yes,28,No
+,,Garcia PLC,Medical,High,2076,14390,0.144266852,No,23,Yes
+,,"Cowan, Allen and Nguyen",Travel,Low,739,4794,0.154151022,No,25,No
+,,"Herman, Maldonado and Mckee",Medical,High,2298,14390,0.159694232,No,21,Yes
+,,"Garcia, Santiago and Saunders",Medical,High,1496,14390,0.103961084,No,20,Yes
+,,Brown Group,Other,Very low,54,399,0.135338346,No,19,Yes
+,,Roman PLC,Other,Very low,93,399,0.233082707,No,18,Yes
+,,"Pacheco, Brown and Reyes",Phone,Medium,204,1875,0.1088,No,26,No
+,,"Frank, Bell and Coleman",Travel,,437,4794,0.091155611,No,19,Yes
+,,"Rodriguez, Robinson and Bailey",Other,Very low,38,399,0.095238095,No,18,Yes
+,,"Hebert, Gill and Quinn",Medical,High,2031,14390,0.14113968,No,28,No
+,,Mckay LLC,Phone,Medium,265,1875,0.141333333,No,26,No
+,,Garcia-Olson,Travel,Low,673,4794,0.140383813,No,18,Yes
+,,Williams and Sons,Phone,Medium,216,1875,0.1152,No,19,Yes
+,,"Lee, Castillo and Bradley",Medical,High,1798,14390,0.12494788,No,23,Yes
+,,Hawkins Inc,,High,2048,14390,0.142321056,No,23,Yes
+,,"Jimenez, James and Carr",Medical,High,1940,14390,0.134815844,No,21,Yes
+,,"Landry, Chung and Alexander",Medical,High,2231,14390,0.155038221,No,20,Yes
+,,Lopez-Chang,Medical,High,1996,14390,0.138707436,No,18,Yes
+,,Johnson-Logan,Travel,Low,398,4794,0.083020442,No,18,Yes
+,,Stanley-Knapp,Phone,Medium,244,1875,0.130133333,No,19,Yes
+,,Villegas-Orr,Other,Very low,22,399,0.055137845,Yes,27,No
+,,"Romero, Dominguez and Lopez",Medical,High,1735,14390,0.12056984,No,27,No
+,,Adams-Boyd,Medical,High,1940,14390,0.134815844,No,21,Yes
+,,Webster Inc,Travel,Low,342,4794,0.071339174,No,22,Yes
+,,Smith Ltd,Other,Very low,47,399,0.117794486,No,19,Yes
+,,Roberson LLC,Travel,Low,639,4794,0.133291615,No,26,No
+,,"Scott, West and Martinez",Phone,Medium,235,1875,0.125333333,No,21,Yes
+,,Gray-Miller,Medical,High,1875,14390,0.130298819,No,27,No
+,,Medina-Scott,Medical,High,1850,14390,0.128561501,No,26,No
+,,Robinson-Jones,Other,Very low,79,399,0.197994987,No,19,Yes
+,,"Johnson, Guerrero and Brown",Medical,High,2299,14390,0.159763725,No,23,Yes
+,,Leach and Sons,Other,Very low,51,399,0.127819549,No,23,Yes
+,,Carr Group,Medical,High,2087,14390,0.145031272,No,26,No
+,,Abbott-Mclean,Medical,High,1702,14390,0.118276581,No,28,No
+,,Miller Ltd,Travel,Low,471,4794,0.09824781,No,18,Yes
+,,Robbins LLC,Medical,High,2113,14390,0.146838082,No,22,Yes
+,,"Ferguson, Henderson and Clark",Medical,High,2050,14390,0.142460042,No,25,No
+,,Williams-Payne,Medical,,2274,14390,0.158026407,No,28,No
+,,Li PLC,Travel,Low,340,4794,0.070921986,No,24,Yes
+,,"Stout, Koch and West",Medical,High,1846,14390,0.12828353,No,21,Yes
+,,Martinez PLC,Phone,Medium,255,1875,0.136,No,27,No
+,,Allen-Smith,Travel,Low,712,4794,0.148518982,No,20,Yes
+,,"Carpenter, Carr and Brown",Phone,Medium,204,1875,0.1088,No,23,Yes
+,,"Porter, Norton and Meyer",Phone,Medium,236,1875,0.125866667,No,22,Yes
+,,Ruiz-Smith,Medical,High,1478,14390,0.102710215,No,18,Yes
+,,"Wilson, Garcia and Cross",Other,Very low,26,399,0.065162907,No,18,Yes
+,,Ramirez PLC,Phone,Medium,236,1875,0.125866667,No,19,Yes
+,,Adams and Sons,Medical,High,2003,14390,0.139193885,No,24,Yes
+,,Sanchez Group,Phone,Medium,251,1875,0.133866667,No,24,Yes
+,,Stewart PLC,Medical,High,1635,14390,0.11362057,No,22,Yes
+,,Fleming Ltd,Other,Very low,70,399,0.175438596,No,24,Yes
+,,Wilson Inc,Phone,Medium,218,1875,0.116266667,No,20,Yes
+,,"Mcfarland, Kim and Holland",Medical,High,1980,14390,0.137595552,No,28,No
+,,Lopez-Sanchez,Travel,Low,881,4794,0.183771381,No,22,Yes
+,,Rodriguez Group,Travel,Low,692,4794,0.144347101,No,21,Yes
+,,Chung-Silva,Medical,High,1479,14390,0.102779708,No,19,Yes
+,,Mueller PLC,Phone,Medium,241,1875,0.128533333,No,18,Yes
+,,"Odonnell, Pittman and James",Medical,High,2222,14390,0.154412787,No,18,Yes
+,,Martin-Ponce,Travel,Low,438,4794,0.091364205,No,18,Yes
+,,"Smith, Miller and Hopkins",Travel,Low,799,4794,0.166666667,No,21,Yes
+,,"Clark, Shields and Smith",Medical,High,1558,14390,0.108269632,No,23,Yes
+,"Unit 7952 Box 9054,DPO AE 44659","Frederick, Rasmussen and Duran",Medical,High,2026,14390,0.140792217,No,28,No
+,"949 Knox Avenue,Rubioview, SD 27408",Delacruz and Sons,Travel,Low,506,4794,0.105548602,No,26,No
+Darren Brooks,"830 Nunez Light,East Tracy, IL 39691",Haas-Brown,Medical,High,1724,14390,0.11980542,No,18,Yes
+Amanda Winters,"61071 Crystal Pines,North Dianaburgh, OH 12050","Santos, Tucker and Larson",Medical,High,2278,14390,0.158304378,No,28,No
+Theresa Cruz,"979 Moore Pine Suite 189,Patriciastad, RI 61947",Ward and Sons,Medical,High,1809,14390,0.1257123,No,18,Yes
+Annette Stout,"22458 Deborah Loop Apt. 551,Atkinsonfurt, IL 40094","Best, Wright and Beard",Medical,High,1872,14390,0.130090341,No,21,Yes
+Shannon Hunt,"6009 Patrick Tunnel,Comptonberg, AR 11679","Smith, Ryan and Alvarez",Other,Very low,70,399,0.175438596,No,25,No
+Mike Webb,"367 Bennett Parks Apt. 500,Port Johntown, MI 01741",Brown-Chavez,Other,Very low,81,399,0.203007519,No,18,Yes
+Donna Diaz,"460 Julie Isle,Jenniferfurt, RI 79005","Flores, Fernandez and Bailey",Medical,High,1814,14390,0.126059764,No,20,Yes
+Chad Carter,"5325 Hernandez Harbor Suite 429,Olsonfurt, AR 85505",Campbell-Delacruz,Phone,Medium,263,1875,0.140266667,No,28,No
+Sierra Gonzalez,"6956 Bradshaw Roads,Fernandezville, WV 58003",Campbell and Sons,Other,Very low,71,399,0.177944862,No,21,Yes
+Christian Cantu,"067 Obrien Vista,North Sandra, NM 47807","Walker, Rhodes and Johnson",Other,Very low,35,399,0.087719298,No,18,Yes
+Amber Bennett,"37828 Rebecca Lock,Turnerbury, ID 96627",Tyler PLC,Medical,High,1759,14390,0.122237665,No,18,Yes
+Ashley Davis,"190 Orr Stream,South Marcus, DE 36531",Simmons Ltd,Medical,High,1959,14390,0.136136206,No,28,No
+Lisa Jacobs,"32549 Rodriguez Fork Apt. 425,Powellborough, IL 09610",Coleman-Brown,Travel,Low,695,4794,0.144972883,No,25,No
+Andrew Crawford,"76399 Curry Mills Apt. 480,Lake Andrewshire, CT 08879",Lopez PLC,Travel,Low,438,4794,0.091364205,No,19,Yes
+Tami Mcbride,"51127 Shaun Harbors Apt. 515,Kelseystad, CT 23061","Anderson, Smith and Mckenzie",Travel,Low,370,4794,0.077179808,No,18,Yes
+Diane Duncan,"USNV Davis,FPO AA 07035",Martinez Group,Medical,High,1317,14390,0.09152189,No,27,No
+Samantha Randall,"Unit 9606 Box 3385,DPO AA 72244",Johnson-Neal,Phone,Medium,255,1875,0.136,No,21,Yes
+Paul Phillips,"448 Campbell Shore Apt. 565,Tiffanyborough, TX 01409",Miller-Jensen,Medical,High,1487,14390,0.10333565,No,19,Yes
+Gerald Carney,"9177 Jose Burg Suite 424,East Melissachester, MN 77452","Roth, Green and Thompson",Medical,High,1921,14390,0.133495483,No,19,Yes
+Corey Thomas,"578 Nicholas Meadow Suite 573,Michelleview, VA 95144","Thomas, Jenkins and Jackson",Travel,Low,494,4794,0.103045474,No,18,Yes
+Justin Herring,"USS Adkins,FPO AE 19427",Young Inc,Medical,High,2049,14390,0.142390549,No,22,Yes
+Michael Brown,"924 Ayala Shoal Suite 076,East Ronaldbury, DE 67506","Nguyen, Green and Anderson",Other,Very low,5,399,0.012531328,Yes,24,Yes
+Holly Bernard,"3991 Gonzalez Estate,North Paulville, WY 43857","Wright, Brown and Mccarthy",Other,Very low,73,399,0.182957393,No,27,No
+Maurice Lewis,"048 Sandoval Dale,Timothyside, WV 43356","Huff, Thomas and Coffey",Medical,High,1569,14390,0.109034051,No,23,Yes
+Daniel Rubio,"6637 Wells Summit Apt. 468,North Jeffrey, RI 00734",Davis PLC,Travel,Low,307,4794,0.064038381,No,24,Yes
+Scott Sullivan,"73201 Torres Pass Apt. 891,West Leslie, MT 01536",Murphy-Vega,Medical,High,1380,14390,0.095899931,No,24,Yes
+Jennifer Tanner,"83694 Kevin Gardens Apt. 162,South Robert, MD 88456","Espinoza, Beasley and Deleon",Travel,Low,547,4794,0.11410096,No,20,Yes
+Lori Compton,"Unit 6566 Box 8459,DPO AP 88812",Gaines-Anderson,Other,Very low,72,399,0.180451128,No,25,No
+Mandy Wilson,"PSC 6951, Box 4239,APO AA 56167",Johnson PLC,Phone,Medium,226,1875,0.120533333,No,24,Yes
+Carla Trujillo,"8255 Tucker Drives Suite 401,Lake Kevin, AZ 27946",Grant Inc,Travel,Low,899,4794,0.187526074,No,19,Yes
+Terry Sanchez,"33504 Daniel Dale Apt. 522,Devinberg, LA 48422","Miller, Carter and Williams",Medical,High,1533,14390,0.106532314,No,22,Yes
+Clayton Hamilton,"133 Vanessa Groves Suite 596,Jenkinsberg, MT 61646","Smith, Gonzalez and Horne",Medical,High,1583,14390,0.110006949,No,19,Yes
+Stephen Johnson,"249 Shields Island,North Johnland, RI 49630","Miller, Lozano and Spence",Travel,Low,485,4794,0.101168127,No,20,Yes
+Carla Rios,"391 Moreno Way,Carsonville, ND 06890",Vargas Group,Phone,Medium,247,1875,0.131733333,No,25,No
+Charles Kennedy,"189 Adam Pike Apt. 637,Brendanhaven, PA 52029",Rojas Group,Medical,High,1968,14390,0.13676164,No,27,No
+Michael Drake,"444 Wendy Pike,North Richardfurt, HI 13731",Reynolds and Sons,Other,Very low,73,399,0.182957393,No,19,Yes
+Brendan Bailey,"PSC 2826, Box 8053,APO AE 05955",Robles-Olson,Phone,Medium,258,1875,0.1376,No,26,No
+Anthony Moore,"294 Hernandez Crest Apt. 522,North Isabella, MS 71333",Sullivan Group,Phone,Medium,252,1875,0.1344,No,28,No
+Alexis Wells,"61612 Brandon Well Suite 500,East Timothymouth, WA 95628","Howard, Gray and Henson",Medical,High,1665,14390,0.115705351,No,19,Yes
+Debbie Logan,"8145 Rogers Manors Suite 972,Jeremyborough, DC 46116","Hughes, Jordan and Moore",Phone,Medium,237,1875,0.1264,No,24,Yes
+John Peters,"898 Theodore Square Suite 103,Annetteshire, MA 46599",Hartman PLC,Medical,High,2143,14390,0.148922863,No,21,Yes
+Lindsey Lewis,"4021 Rodney Extensions,South Vickieville, CA 78367",Rosales-Ross,Travel,Low,410,4794,0.085523571,No,28,No
+Dr. Miguel Cannon,"USNV Ochoa,FPO AA 18676",Perkins-Anderson,Medical,High,1735,14390,0.12056984,No,28,No
+Shane Padilla,"601 Julia Trail Apt. 426,South John, FL 43484",Willis-Espinoza,Travel,Low,732,4794,0.152690864,No,27,No
+Mark Smith,"4400 Ashley Via Apt. 293,Brandonbury, HI 52353",Gibson-Malone,Travel,Low,606,4794,0.12640801,No,22,Yes
+Scott Calhoun,"07630 Perez Corner,Morseville, FL 46603",Lane-Arnold,Medical,High,1532,14390,0.106462821,No,24,Yes
+Ashley Moreno,"6179 Danielle Estate Apt. 227,South Marilyn, NH 24833","Merritt, Smith and Reyes",Medical,High,1501,14390,0.104308548,No,23,Yes
+John Gardner,"6809 Mendoza Estates Suite 745,North Catherine, AR 63054","Warner, Campbell and Adams",Medical,High,1534,14390,0.106601807,No,24,Yes
+Patrick Romero,"19191 Mitchell Heights Apt. 711,Leslieland, ID 05481",Clark-Tran,Travel,Low,553,4794,0.115352524,No,23,Yes
+Nicholas Hayes,"589 Sandra Points,Vasqueztown, AL 40221",Rogers-Park,Other,Very low,52,399,0.130325815,No,22,Yes
+Steven Butler,"88962 Wilkerson Drives Apt. 018,West Stacy, CO 97046",Gray LLC,Other,Very low,44,399,0.110275689,No,26,No
+Lisa Donovan,"12665 Kristen Land Suite 865,North Steven, CO 84596",Gonzales-Sanders,Medical,High,1356,14390,0.094232106,No,26,No
+Patricia Miller,"949 Goodman Road,Jacobport, NJ 68979",Richards-Jenkins,Phone,Medium,251,1875,0.133866667,No,21,Yes
+Morgan Bates,"7974 Carol Burgs Apt. 306,Amandabury, KS 51904",Cooper Inc,Medical,High,2113,14390,0.146838082,No,28,No
+Steven Johnson,"359 Rodney Spring,South Luis, RI 54655",Castillo Inc,Travel,Low,552,4794,0.11514393,No,21,Yes
+Phyllis Kirby,"97104 Russell Land Apt. 330,Mooreberg, NM 67505","Scott, Reeves and Alvarado",Other,Very low,63,399,0.157894737,No,25,No
+Bethany Gates,"68448 Angelica Roads,Coleland, MN 33029",Smith and Sons,Other,Very low,60,399,0.15037594,No,28,No
+Edward Richardson,"70606 Gamble Square Apt. 268,Lynchville, LA 80343","Guerra, Hunter and Smith",Travel,Low,321,4794,0.066958698,No,19,Yes
+Lauren Terry,"0958 Jeffrey Shore Apt. 465,Gabrielchester, RI 16900",Ortiz and Sons,Phone,Medium,226,1875,0.120533333,No,23,Yes
+Lacey Brewer,"8622 Sandra Pine Suite 031,South Tommy, NV 11612","Hansen, Bautista and Ibarra",Travel,Low,641,4794,0.133708803,No,19,Yes
+Rebecca Brown,"5210 Julie Extensions,Turnerview, TX 11679",Vargas-Walker,Medical,High,1344,14390,0.093398193,No,25,No
+Mrs. Sandra Hensley,"253 Leslie Mission Apt. 226,Gibbsmouth, AR 98659","Hernandez, King and Ellis",Travel,Low,507,4794,0.105757196,No,21,Yes
+Meredith Thompson,"7319 Dalton Place Suite 629,Lake Robertfurt, KY 64896",Smith and Sons,Medical,High,2244,14390,0.155941626,No,22,Yes
+Danielle Jenkins,"452 Bautista Row,Port Annhaven, WV 95520",Martinez-Morgan,Medical,High,1792,14390,0.124530924,No,26,No
+Lisa Butler,"427 David Underpass,South Nicholasmouth, DC 03644","Blanchard, Walton and Snyder",Medical,High,1970,14390,0.136900625,No,20,Yes
+Joseph Rodriguez,"2641 Cindy Creek Suite 271,Jamestown, WV 68569","Cook, Henry and Hernandez",Phone,Medium,268,1875,0.142933333,No,24,Yes
+Anita Poole,"50838 Tyler Path,East Sherylton, GA 31306",Levine-Harris,Travel,Low,897,4794,0.187108886,No,21,Yes
+Christopher Jordan,"0493 Kathryn Row Apt. 829,West Allisonfort, VT 91461","Martinez, Peterson and Brennan",Medical,High,1510,14390,0.104933982,No,28,No
+William Williams,"53619 Wayne Junction,Melissachester, PA 23014","Collins, Jennings and Ayala",Medical,High,1688,14390,0.117303683,No,26,No
+Susan Bullock,"4321 Thompson Parkways Apt. 900,North Taylorbury, HI 79650",Walters-Walker,Travel,Low,813,4794,0.169586984,No,24,Yes
+Mariah Moyer,"7374 Baldwin Street,Stephanietown, NY 01898",White-Leonard,Other,Very low,53,399,0.13283208,No,27,No
+Marc Beasley,"30121 Sarah Ridges Suite 114,South Jessicaview, KY 14011","Stone, Pineda and Taylor",Medical,High,1501,14390,0.104308548,No,23,Yes
+Hector Miles,"78758 Stewart Island,Robertohaven, NH 28013","Navarro, Mejia and Lucas",Medical,High,2263,14390,0.157261987,No,28,No
+Erica Walker,"842 Smith Creek,East William, OK 99332",Rios-Jones,Medical,High,1798,14390,0.12494788,No,22,Yes
+Keith Martin,"89635 Hall Plain,East Evelynshire, KY 10075","Price, Harris and Perry",Medical,High,1545,14390,0.107366227,No,22,Yes
+Cindy Payne,"321 Pierce Flats Apt. 179,Zacharyshire, NY 37379",Miller-Jackson,Medical,High,2245,14390,0.156011119,No,22,Yes
+Jason Walters,"PSC 1959, Box 0615,APO AE 72732",Horn PLC,Medical,High,1654,14390,0.114940931,No,28,No
+Jennifer Tran,"708 David Lake Suite 668,New Glenburgh, FL 50585","Gonzalez, Martinez and Johnson",Medical,High,1471,14390,0.102223767,No,23,Yes
+Robert Freeman,"117 Garcia Valley,North Matthewfurt, MI 09048","Payne, Mckinney and Morse",Travel,Low,480,4794,0.100125156,No,20,Yes
+Ashlee Baird,"8245 Isabel Springs,North Robinstad, MA 13477",Prince PLC,Medical,High,2136,14390,0.148436414,No,27,No
+Cynthia Cummings,"07793 Cox Motorway,Courtneyton, TN 83879",Nelson-Wagner,Travel,Low,529,4794,0.110346266,No,25,No
+Richard Solomon,"30510 Wallace Ridge,East Christopherbury, CO 97814","Morrison, Russell and Wells",Other,Very low,14,399,0.035087719,Yes,24,Yes
+Melissa Williams,"4792 Benjamin Brooks,East Emmaborough, WI 90275","Smith, Maldonado and Lee",Travel,Low,507,4794,0.105757196,No,28,No
+Aaron Parker,"093 George Divide,Daisymouth, RI 13270",Ramos Inc,Medical,High,1913,14390,0.132939541,No,20,Yes
+Chad Burton,"16395 Frye Lodge,Grantbury, TN 16811","Fry, Thompson and Hamilton",Other,Very low,21,399,0.052631579,Yes,28,No
+Kristina Calderon,"5228 Sergio Roads Apt. 931,West Crystal, OK 68143","Carrillo, Turner and Alvarez",Medical,High,2094,14390,0.145517721,No,27,No
+Theresa Ross,"92296 Petty Knoll,New Anthony, ID 17184",Smith and Sons,Travel,Low,687,4794,0.14330413,No,19,Yes
+Jeffrey Smith,"54196 Elijah Street,Potterberg, NV 98431",Collins-Goodwin,Medical,High,2163,14390,0.150312717,No,24,Yes
+Cynthia Chen,"2567 Maria Canyon Suite 345,Port Derrick, CO 30145",Austin-Richards,Travel,Low,723,4794,0.150813517,No,18,Yes
+Benjamin Schwartz,"21208 Christopher Orchard,Bauertown, AL 81177",Molina-James,Medical,High,1423,14390,0.098888117,No,27,No
+Tyler Gardner,"951 Jeanette Fork,Robinsonville, VA 94369","Ross, Reynolds and Velasquez",Medical,High,2084,14390,0.144822794,No,22,Yes
+Daniel Hammond,"575 Katelyn View,Anthonymouth, NY 20157",Mitchell LLC,Travel,Low,736,4794,0.15352524,No,18,Yes
+Benjamin Fitzgerald,"8375 Allen Track,Allenville, VA 77825",Waller PLC,Phone,Medium,265,1875,0.141333333,No,27,No
+Shawna Thompson,"8495 Hull Park,Greggstad, RI 61832","Harper, Smith and Griffin",Other,Very low,67,399,0.167919799,No,24,Yes
+Jennifer Morales,"33409 Cheryl Orchard,North Stephen, VA 30504",Lane-Patel,Medical,High,2273,14390,0.157956915,No,20,Yes
+Jeremy Wood,"426 Donald Walks Apt. 932,Lake Joshua, WV 53382",Erickson PLC,Travel,Low,352,4794,0.073425115,No,22,Yes
+Nicholas Simmons,"11028 Ramirez Field Suite 383,North Kelly, UT 41585","Barker, Bradford and Hines",Medical,High,2071,14390,0.143919388,No,21,Yes
+Stephen Wang,"22820 Campbell Fall,Arnoldside, NC 92601","Anderson, Vazquez and Miller",Other,Very low,31,399,0.077694236,No,18,Yes
+Tanya Miles,"82878 Cruz Spring Suite 995,West Steven, NH 16306","Mora, Reed and Erickson",Travel,Low,763,4794,0.15915728,No,19,Yes
+Stephanie Zamora,"015 Phillips Lodge,Wesleyberg, MI 74126","Smith, Hooper and Jones",Other,Very low,10,399,0.025062657,Yes,24,Yes
+Larry Martinez,"35066 Justin Walks Apt. 969,Barnesmouth, OK 98932","Campbell, Morris and Harris",Phone,Medium,268,1875,0.142933333,No,20,Yes
+Daniel Thornton,"49733 White Camp Suite 220,New Amandamouth, AL 79080",Calhoun PLC,Travel,Low,736,4794,0.15352524,No,27,No
+Alexandra Casey,"USNV Fleming,FPO AP 73017","Rangel, Jackson and Smith",Travel,Low,305,4794,0.063621193,No,22,Yes
+Robert Ellis,"Unit 7081 Box 5524,DPO AA 80282",Daugherty LLC,Travel,Low,417,4794,0.08698373,No,26,No
+Mary Thompson,"789 Foster Trace,Lake Valeriestad, UT 46403","Nicholson, Powell and Young",Phone,Medium,248,1875,0.132266667,No,26,No
+David Perez,"63414 Jennifer Unions Apt. 107,South Marc, IL 98314",Becker-Harrison,Medical,High,1769,14390,0.122932592,No,24,Yes
+Kelly Martin DDS,"94830 Connie Walk Apt. 113,Lake Oscar, ME 16962",Paul PLC,Other,Very low,47,399,0.117794486,No,18,Yes
+Benjamin Lam,"864 Ray Mission Apt. 506,New Aprilbury, LA 66529",Moore-Russell,Medical,High,2068,14390,0.14371091,No,20,Yes
+Krista Weeks,"948 Perez Ridges,North James, OR 09794","Munoz, Howe and Daniels",Medical,High,1992,14390,0.138429465,No,27,No
+Danielle Simpson,"81246 Cole Freeway Apt. 351,Lauraview, WA 63671",Scott-Smith,Medical,High,1332,14390,0.092564281,No,22,Yes
+Jeffrey Navarro,"811 Hale Expressway Apt. 164,East Michaelland, MO 16783","Montoya, Johnson and Gibbs",Other,Very low,3,399,0.007518797,Yes,24,Yes
+Roger Turner,"13164 Amanda Via,West Stephanieborough, CO 86826",Clark-Burgess,Medical,High,2181,14390,0.151563586,No,24,Yes
+Raymond Keller,"2949 Gomez Village Apt. 371,East Jessicafort, NV 94395","Rice, Harris and Parsons",Other,Very low,57,399,0.142857143,No,23,Yes
+Kirsten Martinez,"9359 Kathleen Well Apt. 828,East Robertchester, SD 16475",Vance and Sons,Phone,Medium,253,1875,0.134933333,No,25,No
+Greg Mitchell,"2547 Robert Roads,North Georgebury, MS 32891",White Group,Medical,High,2155,14390,0.149756776,No,24,Yes
+Tara Martin,"495 Martinez Corner,Sandovalborough, OK 98898",Farley-Smith,Medical,High,1387,14390,0.096386379,No,24,Yes
+Lee Shaw,"Unit 1889 Box 0452,DPO AA 85635",Mills-Wright,Phone,Medium,216,1875,0.1152,No,19,Yes
+Steven Hernandez,"56536 Marsh Station,Lake Wendy, MD 17785",Chen-Sims,Medical,High,1618,14390,0.112439194,No,27,No
+Elijah Wells,"75581 Juarez Port,New Albertstad, UT 37458",Wiley-May,Other,Very low,14,399,0.035087719,Yes,20,Yes
+Susan Mitchell,"050 John Shoals,West Marychester, NE 35307","Fleming, Smith and Lopez",Other,Very low,26,399,0.065162907,No,20,Yes
+Wanda King,"900 Jones Summit Suite 245,Ryanville, CA 78250","Joyce, Collins and Matthews",Phone,Medium,201,1875,0.1072,No,24,Yes
+Shaun Mason,"4982 Michael Parkway Suite 724,Lake Jennifermouth, OH 52245","Barnes, Mason and Daniels",Medical,High,1618,14390,0.112439194,No,24,Yes
+Donald Larson,"11633 Klein Ways,New David, AK 39599",Smith Group,Other,Very low,99,399,0.248120301,No,23,Yes
+Sandra Nelson,"246 Heather Parks Apt. 532,West Carolyn, OH 26723",Robinson LLC,Medical,High,1552,14390,0.107852675,No,28,No
+Nicole Rogers,"044 Johns Trail Apt. 891,North Austin, ID 20318",Johnson-Haynes,Medical,High,1821,14390,0.126546213,No,24,Yes
+Thomas Thomas,"28750 Linda Avenue Apt. 999,Olsonville, IN 15800",Baxter-Walton,Medical,High,1750,14390,0.121612231,No,21,Yes
+Michael King Jr.,"3350 Garcia Well Apt. 415,Port Williamside, PA 79704","Thompson, Byrd and Mason",Travel,Low,818,4794,0.170629954,No,26,No
+Heidi Campbell,"09040 Thomas Summit,Danaburgh, HI 34201",Vance Inc,Phone,Medium,266,1875,0.141866667,No,24,Yes
+Randall Crawford,"5080 Nichols Alley,Schultzview, HI 33413",Payne-Daugherty,Travel,Low,725,4794,0.151230705,No,19,Yes
+Rachel Jones,"3744 Harris Stream,Lopezfort, SD 65456","Chavez, Scott and White",Medical,High,1564,14390,0.108686588,No,21,Yes
+Christopher Tate,"53494 Arnold Fords Apt. 836,East Jeffreyfurt, FL 83054",Green Inc,Medical,High,2026,14390,0.140792217,No,24,Yes
+Kathy Durham,"76396 Perez Drive,Torresside, CA 84102",Lee Group,Medical,High,1591,14390,0.110562891,No,25,No
+Katherine Anderson,"119 Russell Fields,East Kenneth, ID 53834",Cobb-Garcia,Medical,High,1630,14390,0.113273106,No,23,Yes
+Steve Rodriguez,"261 Miller Estate Suite 864,Goldenburgh, IA 16242","Gardner, Wright and Davis",Phone,Medium,201,1875,0.1072,No,28,No
+Darlene Moore,"55986 Walters Plains,East Joshua, DE 58376","Lucero, Gilmore and Davis",Medical,High,2097,14390,0.145726199,No,20,Yes
+Kevin Luna,"843 Turner Row,Jillton, AL 08475",Green-Stewart,Medical,High,2104,14390,0.146212648,No,22,Yes
+James Grant,"161 Cardenas Stream,Christinemouth, CA 95504",Harris PLC,Medical,High,1947,14390,0.135302293,No,22,Yes
+Michael Martin,"7955 Ellis Branch Suite 028,North Dana, MN 18594",Thomas-Hobbs,Medical,High,2291,14390,0.159207783,No,18,Yes
+Glenn Clements,"516 Thomas Fort Suite 036,New Nicole, UT 77845",Brown-Ford,Medical,High,1368,14390,0.095066018,No,25,No
+Troy Coleman,"88690 Ryan Canyon,Morrisstad, OK 32904",Ward LLC,Phone,Medium,231,1875,0.1232,No,24,Yes
+Tammy Summers,"0173 Webb View,Lake Michaelton, VT 47811","Mays, Hanson and Carpenter",Travel,Low,311,4794,0.064872758,No,28,No
+Lauren Mcintosh,"399 Kenneth Junction,Clarkton, NV 79572","Herman, Pierce and Brown",Medical,High,1821,14390,0.126546213,No,23,Yes
+Angela Molina,"0647 Thomas Flats,New Taylor, KS 07854",Lowe-Roberts,Medical,High,1583,14390,0.110006949,No,21,Yes
+Christine Wheeler,"46452 Devin Forges Apt. 919,East Moniqueshire, FL 29678",Woods Group,Travel,Low,878,4794,0.183145599,No,24,Yes
+Austin Martinez,"90088 Gregory Branch,Joyfurt, NH 15732",Bell-Cruz,Medical,High,1850,14390,0.128561501,No,21,Yes
+Ashley Mitchell,"282 Moreno Flats Suite 945,Josephhaven, LA 79618",King-Adams,Other,Very low,59,399,0.147869674,No,26,No
+Dana Sullivan,"312 Bryant Expressway,Josephview, MN 14674","Clay, Petersen and Smith",Medical,High,1868,14390,0.12981237,No,22,Yes
+Gavin Allen,"0616 Jason Mountain Suite 283,East Robertshire, GA 20652",Mccormick-Roman,Medical,High,2290,14390,0.15913829,No,18,Yes
+Brittany Campbell,"946 Gary Isle,Tammychester, FL 29848","Young, Young and Young",Other,Very low,37,399,0.09273183,No,19,Yes
+Stephanie Sandoval,"USCGC Wheeler,FPO AA 46072",Butler-Edwards,Medical,High,1881,14390,0.130715775,No,25,No
+Sheri Huff,"85898 John Knolls Suite 408,Henrymouth, ND 98284",Carrillo-Castro,Travel,Low,838,4794,0.174801836,No,22,Yes
+Tony Murray,"89731 Collin Summit Suite 680,New Joseton, MI 15693","Garcia, Thomas and Richards",Medical,High,1481,14390,0.102918694,No,20,Yes
+Catherine Walker,"82620 Victoria Highway Apt. 887,Clintonhaven, NE 66748","Robinson, Cooper and Robertson",Phone,Medium,262,1875,0.139733333,No,20,Yes
+David Monroe,"38194 Joseph Oval Suite 533,Lake Danielle, ND 18099","Stuart, Brown and Davis",Other,Very low,8,399,0.020050125,Yes,26,No
+Warren Weaver,"2771 Garcia Unions,Mercadoton, TX 60362","Rice, Jones and York",Medical,High,1766,14390,0.122724114,No,25,No
+Travis Thompson,"343 John Views,North Alan, IN 62920","Smith, Gill and Dominguez",Medical,High,1484,14390,0.103127172,No,18,Yes
+Angel Duncan,"1443 Walker Walk,West Tinabury, PA 39761","Myers, Foster and Fox",Medical,High,1518,14390,0.105489924,No,26,No
+Kevin Christian,"5235 Gallegos Cape,Jasonburgh, VT 23543","Pollard, Cruz and Stewart",Phone,Medium,225,1875,0.12,No,24,Yes
+Hannah Reynolds,"123 Sierra Curve Suite 231,New Jamie, CA 45219","Wang, Martin and Malone",Other,Very low,31,399,0.077694236,No,21,Yes
+David Taylor,"393 Miranda Mews Apt. 902,East Christopher, SC 64610","Knox, Brown and Delgado",Medical,High,1912,14390,0.132870049,No,27,No
+Alice Thompson,"20293 Clarke Isle,East Heathermouth, ND 59769",Rodriguez and Sons,Travel,Low,520,4794,0.108468919,No,19,Yes
+Gabriel Ramirez DDS,"USNV Bush,FPO AE 55075",Rodriguez and Sons,Phone,Medium,241,1875,0.128533333,No,28,No
+Elizabeth Small,"8676 Breanna Locks Apt. 124,Lake Kathyburgh, ME 64378","Hopkins, Little and Vargas",Other,Very low,12,399,0.030075188,Yes,24,Yes
+Matthew Miller,"Unit 6111 Box 7999,DPO AP 75208",Daniel-Hanson,Travel,Low,745,4794,0.155402587,No,28,No
+Steven Ortiz,"7653 Jones Track,Owensfort, TX 05331","Rogers, Copeland and Rogers",Medical,High,1925,14390,0.133773454,No,23,Yes
+Alicia Watson,"030 Megan Tunnel Apt. 108,South Alexahaven, SC 19047","Norris, Boone and Chavez",Travel,Low,484,4794,0.100959533,No,26,No
+Blake Wilkinson,"5160 Yolanda Isle Suite 956,New Amandaton, WV 49813","Villanueva, Garcia and Sharp",Phone,Medium,230,1875,0.122666667,No,24,Yes
+Benjamin Moore,"3272 Nelson Valley,Burgessville, CT 10141",Parker-Wilson,Other,Very low,70,399,0.175438596,No,20,Yes
+Dorothy Andrade,"39242 Lewis Ways Apt. 166,South Amy, AR 42827",Vaughn Ltd,Medical,High,2284,14390,0.158721334,No,19,Yes
+Rebecca Ford,"621 Yates Creek,East Blakeshire, MS 22579",Hendricks-Gonzalez,Medical,High,2088,14390,0.145100764,No,24,Yes
+Annette Walker,"73281 Linda Terrace,Joshuaville, WV 65561",Wilson-Brown,Medical,High,1946,14390,0.135232801,No,27,No
+Leah Mcdaniel,"882 Michael Ridge,Spencerberg, PA 87231",Rodriguez-Rhodes,Other,Very low,8,399,0.020050125,Yes,26,No
+Yvonne Koch,"011 Robert Parkway,Smithport, TX 33791","Harrison, Carter and Ho",Medical,High,1311,14390,0.091104934,No,27,No
+Jeanette Cook,"60233 Jones Plaza,New Amanda, UT 14388","Garcia, Farrell and Spencer",Medical,High,2294,14390,0.159416261,No,24,Yes
+Joseph Adams,"354 Clifford Dale,West Sandraburgh, TX 77989",Potts-Ellis,Travel,Low,644,4794,0.134334585,No,20,Yes
+Dawn Price,"427 Green Drives,Cynthiaton, NH 63862",Wilson-Benton,Medical,High,1381,14390,0.095969423,No,28,No
+Debra Lindsey,"3642 Anderson Key,Andreaburgh, AK 36713",Cole Inc,Other,Very low,94,399,0.235588972,No,27,No
+Joseph Stevens,"620 Taylor Crossroad,East Michael, NH 03372",Roberts PLC,Phone,Medium,251,1875,0.133866667,No,26,No
+Larry Flores,"13834 Jenna Meadows,Mitchellmouth, TX 01436",Fuller Ltd,Medical,High,1601,14390,0.111257818,No,24,Yes
+Danielle Khan,"PSC 0005, Box 4863,APO AE 13166","Elliott, Harvey and Kaufman",Medical,High,2270,14390,0.157748436,No,19,Yes
+Allison Parrish,"918 Jason Heights,South Calebport, AZ 70496",Young-Wilson,Medical,High,1780,14390,0.123697012,No,18,Yes
+Gina Moore,"99716 Mark Run,Bergerfurt, NH 25968",Cervantes Group,Phone,Medium,233,1875,0.124266667,No,20,Yes
+William Welch,"54918 Sheila Course,Brownton, ND 29576",Holland-Thompson,Medical,High,1505,14390,0.104586518,No,22,Yes
+Danielle Lee,"874 Davis Shoal Apt. 471,New Wesley, AL 11530",Harrison and Sons,Medical,High,1374,14390,0.095482974,No,19,Yes
+James Fischer,"7400 Schmitt Keys Suite 610,New Kimberly, VA 11890",Le-Becker,Other,Very low,52,399,0.130325815,No,20,Yes
+Stanley Morris,"84306 Jones Lodge,New Deannachester, HI 39490",Harvey Group,Travel,Low,417,4794,0.08698373,No,23,Yes
+Shawn Hernandez,"PSC 2530, Box 6270,APO AE 72212",Martin and Sons,Phone,Medium,227,1875,0.121066667,No,26,No
+Brenda Arnold,"0027 Heather Falls,South Stevenville, OH 76900","Williams, Morrison and Jackson",Medical,High,1357,14390,0.094301598,No,28,No
+Sherri Booth,"1778 Strong Estate Suite 592,Fowlerland, WI 39031",Gould-Smith,Medical,High,2080,14390,0.144544823,No,28,No
+Angela Smith,"44703 Ashley Trail,Nicholasfort, LA 93497","Black, Ward and Stein",Medical,High,1650,14390,0.11466296,No,24,Yes
+Peggy Torres,"507 Stephanie Ramp,New Mitchell, TN 88359",Marquez-Miller,Medical,High,2135,14390,0.148366921,No,21,Yes
+Adam Nichols,"3468 Walsh Manors Suite 624,Marcusberg, MN 25470",Keller-Kemp,Travel,Low,778,4794,0.162286191,No,28,No
+Steve Howard,"6512 Samuel Mall Apt. 846,Kleinton, NH 76186","Nielsen, Ross and Walters",Phone,Medium,215,1875,0.114666667,No,23,Yes
+James Bright,"16959 Kelly Center,Petersonhaven, OH 18187",Arias-Howard,Phone,Medium,267,1875,0.1424,No,27,No
+Charles Mckenzie,"884 Ann Cliff,Wilcoxside, WA 28018",Williamson PLC,Medical,High,1367,14390,0.094996525,No,24,Yes
+Jessica Perry,"256 Allen Ferry Suite 330,East Joel, MN 71066",Banks Inc,Travel,Low,755,4794,0.157488527,No,20,Yes
+Beth Hayes,"4149 Rodriguez Trace Apt. 692,New Kimberlyton, MO 56403",Burgess PLC,Travel,Low,679,4794,0.141635378,No,20,Yes
+Melissa Bennett,"2947 Flynn Cliffs,North Daniel, WV 74751","Wagner, Cross and Gibbs",Travel,Low,441,4794,0.091989987,No,19,Yes
+Courtney Gonzales,"USCGC Walsh,FPO AA 01863",Kelley-Garcia,Travel,Low,806,4794,0.168126825,No,23,Yes
+Gina Martinez,"08086 Moore Islands Suite 984,Stephaniestad, HI 17839","Jones, Browning and Farmer",Medical,High,1350,14390,0.093815149,No,25,No
+Megan Paul,"316 Rice Street Apt. 850,Joport, NY 90398",Moreno LLC,Other,Very low,83,399,0.20802005,No,27,No
+Shawn Rodriguez,"011 Bush Curve Suite 680,Crossberg, CA 31293",Clay Inc,Medical,High,1805,14390,0.125434329,No,28,No
+Scott Tate,"25066 Jessica Orchard,Kurtberg, OR 22158","Aguilar, Thomas and Sanchez",Medical,High,1919,14390,0.133356498,No,25,No
+Kimberly Nielsen,"30479 Deborah Station Apt. 264,Ibarrafort, FL 75998",Porter-Brown,Phone,Medium,213,1875,0.1136,No,23,Yes
+Rachel Martin DDS,"486 Pittman Manor,Port Rachelfurt, VA 07605",Chapman-Turner,Medical,High,1809,14390,0.1257123,No,19,Yes
+Sydney Meyer,"14394 Johnston Lodge Apt. 935,East Sarah, MO 68657",Williams LLC,Travel,Low,450,4794,0.093867334,No,22,Yes
+James Tran,"Unit 4453 Box 7827,DPO AP 57942","Gutierrez, Sanchez and Lee",Medical,High,1825,14390,0.126824183,No,22,Yes
+Jonathan Mcdonald,"28001 Thomas Loop,New Andrea, NM 05370",Lambert PLC,Medical,High,1889,14390,0.131271716,No,23,Yes
+Alvin Barnes,"34162 Gonzalez Fords Suite 266,Andreafort, FL 91756","Smith, Lewis and Morris",Travel,Low,464,4794,0.096787651,No,23,Yes
+Ronald Blake,"5449 Kimberly Crest,Johnsonhaven, ME 28059","Best, Wilson and Sanchez",Other,Very low,33,399,0.082706767,No,25,No
+Leslie Meyers,"7246 Davis Locks,Christinaton, IN 16660",Heath-Wallace,Other,Very low,94,399,0.235588972,No,25,No
+Michael Brown,"390 Kenneth Port Apt. 863,Nicholaschester, MD 47229",Craig Ltd,Travel,Low,866,4794,0.18064247,No,21,Yes
+Patricia Gutierrez,"7943 Sandra Fields,Gonzalezshire, WI 63565","Spence, Mcdaniel and Evans",Other,Very low,98,399,0.245614035,No,24,Yes
+Steven Thomas,"1607 Valerie Landing,New Edward, KS 52903",Ward-Hernandez,Other,Very low,83,399,0.20802005,No,20,Yes
+Dawn Contreras,"0554 Andrews Spur Apt. 797,Heatherborough, NC 87522",Warner-Charles,Medical,High,1611,14390,0.111952745,No,28,No
+Sophia Reyes,"52303 Mills Field Suite 978,West Mark, VT 49089",Oconnell Ltd,Travel,Low,383,4794,0.079891531,No,20,Yes
+Michael Cummings,"6356 Logan Drive,Whitneyland, NH 23694",Cox-Santos,Other,Very low,50,399,0.125313283,No,26,No
+Andrea Green,"584 Russell Lodge,Richardhaven, NV 08915",Hughes-Schultz,Medical,High,1821,14390,0.126546213,No,21,Yes
+Amanda Bailey,"48872 Powell Shoal,Howardville, NM 90176",Joseph-Clark,Other,Very low,43,399,0.107769424,No,23,Yes
+Jeffrey Newman,"5730 Kent Islands,Daniellemouth, ID 62823","James, Johnson and Lane",Medical,High,1533,14390,0.106532314,No,21,Yes
+Luis King,"711 Richard Expressway,New Jacob, KS 43603",Ellis Inc,Medical,High,2258,14390,0.156914524,No,24,Yes
+Debra Coleman,"10196 Miller Place Apt. 289,Nancymouth, MT 83051","Rivera, Erickson and Perry",Phone,Medium,245,1875,0.130666667,No,27,No
+Nancy Robinson,"5350 Mendoza Plains,Fieldstown, MA 42681","Smith, Thomas and Kane",Medical,High,1845,14390,0.128214038,No,24,Yes
+Haley Lewis,"4456 Kimberly Haven,Priceburgh, WY 95669","Gardner, Diaz and Mejia",Medical,High,2046,14390,0.142182071,No,24,Yes
+Heather Strickland,"0258 Mary Islands Apt. 116,West Juliehaven, MD 96373",Chapman Group,Other,Very low,41,399,0.102756892,No,18,Yes
+Jill Jones,"446 Matthew Groves Apt. 956,South Dustintown, KY 05275",Brown Inc,Phone,Medium,235,1875,0.125333333,No,24,Yes
+Kirsten Crane,"8357 David Underpass Apt. 417,Kellyville, LA 36563",Foster-Bird,Medical,High,1826,14390,0.126893676,No,27,No
+Richard Stafford Jr.,"128 Mendoza Lock,Kurtfort, HI 14121","Thompson, Nguyen and Morrow",Medical,High,1532,14390,0.106462821,No,27,No
+Lance Beard,"USNV Thornton,FPO AP 90596",Hunt-Terrell,Medical,High,2044,14390,0.142043085,No,23,Yes
+Amy Becker,"260 Haynes Burg Apt. 443,Williamhaven, MD 19892",Michael-Farmer,Travel,Low,423,4794,0.088235294,No,19,Yes
+Deborah Johnson,"1739 Patrick Islands,Lovetown, CO 04628",Williams-Anderson,Medical,High,1445,14390,0.100416956,No,18,Yes
+Matthew Caldwell,"4775 Andrews Oval Suite 939,West Jay, VT 59167",Cook-Smith,Medical,High,1425,14390,0.099027102,No,22,Yes
+Sharon Carson,"73524 Alicia Freeway Suite 831,New Michelle, NE 52277","Graves, Ford and Harris",Phone,Medium,237,1875,0.1264,No,27,No
+Jonathon Martin,"936 Reynolds Squares Suite 213,Tylerport, TX 97291",Williams-Scott,Medical,High,2184,14390,0.151772064,No,21,Yes
+Benjamin Kennedy,"42407 Mary Crossing Suite 335,Elizabethshire, CO 46283",Jones-Figueroa,Medical,High,1968,14390,0.13676164,No,21,Yes
+Sandra Vincent,"154 Jocelyn Hill Apt. 148,Aaronbury, TN 44130",Walters Group,Medical,High,1663,14390,0.115566366,No,23,Yes
+Michael Watson,"64111 Kayla Meadows Suite 411,Aaronfurt, NY 43427","Mcclain, Bond and Marshall",Phone,Medium,227,1875,0.121066667,No,27,No
+Tyrone Daniels,"52854 Taylor Streets,East Nathan, AR 02232",Jones PLC,Medical,High,1578,14390,0.109659486,No,28,No
+Jessica Mcpherson,"111 Miranda Extensions Apt. 923,Bullockhaven, NE 03514",Knox Inc,Phone,Medium,247,1875,0.131733333,No,18,Yes
+Zachary Williams,"85502 Patel Cliffs Apt. 172,Jamesport, TN 13239","Thompson, Hunt and Molina",Other,Very low,60,399,0.15037594,No,28,No
+Scott Matthews,"568 Jimenez Landing Suite 603,East Marialand, DE 02787",Chandler-Mcdowell,Medical,High,1376,14390,0.09562196,No,26,No
+Jonathan Jones,"143 Anna Plains,Lake Austinville, UT 53309",Arias-Allen,Medical,High,1973,14390,0.137109104,No,28,No
+Andrew Jones,"02620 Rodriguez Heights Suite 839,East Jerry, MO 97207",Ryan Inc,Phone,Medium,247,1875,0.131733333,No,25,No
+Elaine Gordon,"2526 Donna Green,East Emilyport, IL 04159",Moran and Sons,Medical,High,1694,14390,0.117720639,No,23,Yes
+Christopher Parker,"2188 Miller Ways Suite 945,Ronnieview, SD 60329",Robinson Inc,Other,Very low,79,399,0.197994987,No,18,Yes
+Angela Acevedo,"68525 Amanda Parkways,Port Derek, CA 10722",Miranda Inc,Travel,Low,451,4794,0.094075928,No,27,No
+David Lowe,"66257 Suarez Meadow Apt. 204,Rachaeltown, NJ 29795",Walsh and Sons,Medical,High,1732,14390,0.120361362,No,18,Yes
+Richard Hernandez,"883 Christopher Underpass,Lake Stevenmouth, NH 55098","Brown, Reid and Lopez",Medical,High,2096,14390,0.145656706,No,24,Yes
+Amanda Miller,"7549 Martin Road,Michaelport, TX 17796",Johnson Group,Phone,Medium,208,1875,0.110933333,No,22,Yes
+Connor Brown,"PSC 5595, Box 1649,APO AA 89999","Cunningham, Thomas and Steele",Medical,High,1854,14390,0.128839472,No,18,Yes
+Dr. Steven Mendoza,"4138 Wright Spur,Lake Eric, CA 23459",Guerra-Barrera,Other,Very low,7,399,0.01754386,Yes,23,Yes
+Doris Robertson,"5393 Stephanie Heights Suite 993,Lake Michaelshire, TX 29462",Rogers and Sons,Medical,High,1472,14390,0.102293259,No,28,No
+Brandon Farmer,"78630 Rogers Oval Suite 248,Reneeburgh, SC 26397",Becker PLC,Medical,High,1767,14390,0.122793607,No,18,Yes
+Tracy Collins,"3710 Michael Keys,New Johnchester, LA 44061","Aguirre, Turner and Collins",Medical,High,1755,14390,0.121959694,No,25,No
+Kimberly Sosa,"0063 Timothy Mountains,South Susan, TN 27143",Harris-Bowen,Travel,Low,784,4794,0.163537756,No,26,No
+Tammy Clark,"27273 Elizabeth Gardens,Clarkville, IL 09344",Fox Group,Medical,High,1741,14390,0.120986796,No,20,Yes
+Benjamin Miller,"13269 Davis Crossroad Suite 713,South Hector, TN 98413","Schroeder, Copeland and Simmons",Phone,Medium,215,1875,0.114666667,No,22,Yes
+Steven Knox DVM,"2868 Paul Center,Lauraburgh, GA 26230",Marshall and Sons,Medical,High,1669,14390,0.115983322,No,28,No
+Emily Santiago,"9565 Harris Valleys Apt. 080,Lake Kaylaport, VT 22906",Thomas LLC,Medical,High,1752,14390,0.121751216,No,24,Yes
+Amy Humphrey,"75391 Natalie Gardens,Benjaminfurt, VA 26514",Torres-Goodman,Phone,Medium,202,1875,0.107733333,No,22,Yes
+Cynthia Bennett,"15212 Kathryn Manor,Kimberlyburgh, IA 72954",Navarro Inc,Travel,Low,597,4794,0.124530663,No,21,Yes
+Oscar Morgan,"PSC 5432, Box 3375,APO AE 39053",Mccarty-Navarro,Medical,High,1941,14390,0.134885337,No,22,Yes
+Anthony Monroe,"PSC 2135, Box 6485,APO AA 22820",Sparks Ltd,Medical,High,1687,14390,0.11723419,No,20,Yes
+Robert Ortiz,"8426 Joanna Junctions,Sharonland, LA 83143","Daniel, Matthews and Murphy",Medical,High,1491,14390,0.103613621,No,26,No
+Joseph Hess,"0093 Munoz Crossroad Apt. 618,Port Ashley, WY 07743",Moore and Sons,Travel,Low,807,4794,0.168335419,No,25,No
+Glen Boyd,"1070 Nash Cape,East William, WI 78317","Fisher, Wheeler and Mcdonald",Medical,High,1635,14390,0.11362057,No,27,No
+Nicholas Brown,"841 Matthew Views,Wilsonfurt, NJ 48564",Huffman Group,Medical,High,1991,14390,0.138359972,No,23,Yes
+Dr. Kendra Ferrell,"USNV Marks,FPO AA 05341",Jones-Sandoval,Phone,Medium,213,1875,0.1136,No,24,Yes
+Eric Roman,"512 King Island Apt. 141,North Brian, ID 29796",Smith-Camacho,Travel,Low,847,4794,0.176679182,No,24,Yes
+Stephen Ibarra,"489 Colon Alley,South Kellyburgh, IN 29259",Mooney Group,Travel,Low,351,4794,0.073216521,No,23,Yes
+Julia Romero,"97398 Frederick Mountain,Lake Gregoryside, UT 40555",Leon Ltd,Medical,High,1346,14390,0.093537179,No,23,Yes
+Allen Rivera,"52292 Campbell Garden Suite 012,East Joel, VT 63059",Carr Inc,Medical,High,1367,14390,0.094996525,No,27,No
+Gail Carrillo,"PSC 9415, Box 3136,APO AP 39608",Sanders-Craig,Medical,High,2125,14390,0.147671994,No,27,No
+Martin Cline,"558 Alicia Ford Apt. 675,West Nathanchester, GA 44691",Coleman Inc,Other,Very low,56,399,0.140350877,No,23,Yes
+Ricardo Cooper,"8568 Diana Road,Gracestad, NC 88729",Fox LLC,Medical,High,1711,14390,0.118902015,No,28,No
+Jennifer Santana,"68328 Brendan Shore Suite 979,North Emily, TX 02026",Miller Group,Phone,Medium,265,1875,0.141333333,No,25,No
+Candice Berg,"275 Daniel Glens Suite 900,North Savannah, GA 17515",Hunter Ltd,Medical,High,1429,14390,0.099305073,No,21,Yes
+Rachel Dickerson,"415 Annette Walk,Wademouth, MT 49613","Bartlett, Smith and Lewis",Medical,High,1723,14390,0.119735928,No,28,No
+Trevor Morris,"0992 Eugene Island,Fisherville, RI 86888",Garcia Group,Other,Very low,33,399,0.082706767,No,20,Yes
+Angel Jordan,"5583 Carroll Parkway Apt. 348,New Robert, NH 01059",Holt-Calhoun,Phone,Medium,239,1875,0.127466667,No,28,No
+Jessica Stanley,"442 Caldwell Ranch Suite 082,West Savannahmouth, ND 77002",Kent-Pope,Medical,High,2280,14390,0.158443363,No,20,Yes
+Dr. Arthur Morris MD,"PSC 5319, Box 9978,APO AP 39805","Schaefer, Jones and Peterson",Travel,Low,338,4794,0.070504798,No,25,No
+Jay Woodward,"669 Sanchez Knoll Apt. 028,West Mariestad, HI 57551",Evans-White,Phone,Medium,215,1875,0.114666667,No,23,Yes
+Charles Baldwin,"Unit 2626 Box 8904,DPO AE 54517","Escobar, Rodriguez and Cooper",Medical,High,1703,14390,0.118346074,No,28,No
+Heather Huerta,"84064 Kenneth Lock,South Justin, LA 08041",Bennett-Byrd,Other,Very low,88,399,0.220551378,No,27,No
+Cesar Torres,"PSC 4283, Box 2331,APO AA 82789","Lindsey, Hansen and May",Medical,High,1812,14390,0.125920778,No,18,Yes
+Kent Anderson,"1618 Matthew Canyon,Josephbury, NC 21217",Watson-Crawford,Medical,High,1383,14390,0.096108409,No,21,Yes
+Jack Johnson,"Unit 2774 Box 7152,DPO AE 59114","Jackson, Fischer and Washington",Phone,Medium,208,1875,0.110933333,No,24,Yes
+Carla Hines,"50795 Aaron Plaza Apt. 744,Freemanton, CA 48273",Ellis and Sons,Medical,High,2161,14390,0.150173732,No,27,No
+Martin Jones,"2065 Jose Trace,West Josephfort, MA 36288","Nguyen, Booker and Briggs",Medical,High,1387,14390,0.096386379,No,21,Yes
+Melissa Garcia,"8278 Taylor Loop,Torrestown, UT 20695","Griffin, Young and Johnson",Other,Very low,66,399,0.165413534,No,23,Yes
+John Aguirre,"385 Deborah Flats,New Raymond, TX 75904",Wheeler Group,Phone,Medium,244,1875,0.130133333,No,26,No
+David Phillips,"442 Hall Drive,Kimview, AK 34230",Greene Ltd,Other,Very low,47,399,0.117794486,No,19,Yes
+Kylie Foster,"588 Jackson Locks Apt. 880,South Stephanie, PA 34786",Peterson and Sons,Medical,High,1406,14390,0.097706741,No,18,Yes
+Nathaniel Hoffman III,"840 Guzman Spurs Suite 756,New Daniel, TX 84971",Torres Group,Medical,High,1813,14390,0.125990271,No,28,No
+Jacqueline Carlson,"268 Virginia Via Suite 683,Alexanderberg, NM 14608","Stevens, Wilson and Cook",Phone,Medium,205,1875,0.109333333,No,20,Yes
+Clifford Lawson,"85143 Stephanie Course Apt. 326,Nielsenshire, DC 05668",Hammond-Brady,Medical,High,1776,14390,0.123419041,No,19,Yes
+Vincent Glenn,"7812 Hawkins Keys,North Jacquelinefurt, LA 67192",Hodges Inc,Medical,High,1992,14390,0.138429465,No,22,Yes
+Roy Dawson,"666 Sullivan Village,West Nancy, SD 28250",Riley-Pierce,Phone,Medium,235,1875,0.125333333,No,22,Yes
+Holly Shepard,"075 Reynolds Neck Apt. 240,Port Josephburgh, FL 94893","Williams, Perez and Mann",Other,Very low,38,399,0.095238095,No,26,No
+Patricia Camacho,"0548 Joel Dale Suite 510,New Sherri, MI 57032","Reed, Clark and Solomon",Travel,Low,710,4794,0.148101794,No,20,Yes
+Brandon White,"5862 Melissa Trail,Nataliemouth, ND 14519",Ross-Cohen,Medical,High,2094,14390,0.145517721,No,18,Yes
+Chris Miller,"USNV Vazquez,FPO AA 04210",Aguirre-Anderson,Medical,High,1622,14390,0.112717165,No,20,Yes
+David Burton,"5180 Samuel Road,Graybury, MD 33581",Hunt-Johnson,Medical,High,2009,14390,0.139610841,No,22,Yes
+Deborah Lawrence,"52043 Campbell Ville,Kimberlymouth, VA 94075",Roth and Sons,Medical,High,1956,14390,0.135927728,No,20,Yes
+Ashlee Duarte,"PSC 4063, Box 4110,APO AE 44083","Hernandez, Miller and Strickland",Other,Very low,64,399,0.160401003,No,19,Yes
+Shelby Hernandez,"776 Greene Walk,Margaretview, MA 25205",Hamilton-Garcia,Medical,High,1303,14390,0.090548992,No,27,No
+Kenneth Rivera,"49299 Jonathan Islands,South Riley, FL 22776",Williams-Martin,Phone,Medium,250,1875,0.133333333,No,19,Yes
+Laura Reynolds,"206 Davenport Place Apt. 032,East Christopherstad, IN 13080","Lee, Dalton and Andrews",Medical,High,1546,14390,0.107435719,No,20,Yes
+Stephanie Gordon,"11645 Hernandez Union,Port Robert, PA 54090",Johnston-Anderson,Other,Very low,43,399,0.107769424,No,24,Yes
+Ralph Griffith,"0891 Emily Ville Suite 527,Johnsonburgh, CO 38167","Chandler, Carney and Sharp",Phone,Medium,219,1875,0.1168,No,26,No
+Erica Watkins,"005 Smith Fort,Chadstad, WA 68997","Campos, Cole and Berry",Medical,High,1887,14390,0.131132731,No,18,Yes
+Earl Cook,"091 Eric Cape Apt. 955,New Alan, KS 51663",Evans Inc,Medical,High,2279,14390,0.158373871,No,18,Yes
+Veronica Castillo,"USNV Perez,FPO AE 74585",Clarke-Rodriguez,Medical,High,1712,14390,0.118971508,No,21,Yes
+Joseph Johnson,"2772 Anthony Unions,East Danielle, WA 95849","Wong, Garcia and Stewart",Medical,High,1744,14390,0.121195274,No,22,Yes
+Lori Hanson,"164 Nancy Trace Apt. 620,Port Bradley, CT 95757","Baker, Davis and Robertson",Medical,High,1574,14390,0.109381515,No,24,Yes
+Tyler Chase,"312 Carlos Stream,South Jennifermouth, IA 52706",Moyer-Ewing,Medical,High,1398,14390,0.097150799,No,20,Yes
+Jesse Shaw,"7400 Alexander Glens Apt. 910,East Randyview, NJ 07509",Howard-White,Medical,High,1969,14390,0.136831133,No,23,Yes
+Christopher Stokes,"920 Jason Overpass,South Kirk, CT 85100","Dunn, Nguyen and Spears",Travel,Low,556,4794,0.115978306,No,18,Yes
+Amy Hughes,"53995 John Trafficway,Lake Amber, WY 32601",Clark Inc,Medical,High,1306,14390,0.09075747,No,26,No
+Melissa Brown,"USCGC Stone,FPO AE 29092","Sanders, Vargas and Castillo",Medical,High,1702,14390,0.118276581,No,26,No
+Crystal Bean,"Unit 5226 Box 4145,DPO AA 12467","Mitchell, Wise and Campbell",Medical,High,1391,14390,0.09666435,No,19,Yes
+Alan Maynard,"432 Lisa Shoals Suite 742,East Alexanderborough, VA 67576",Parker-Soto,Phone,Medium,213,1875,0.1136,No,23,Yes
+Amanda Jones,"742 Cooper Knoll,Williamsberg, OH 20069","Ford, Smith and Roberts",Medical,High,2194,14390,0.152466991,No,28,No
+Michael Miller MD,"172 Larsen Ferry Apt. 820,Alanstad, VT 41454","Randolph, Mack and Robertson",Medical,High,2080,14390,0.144544823,No,20,Yes
+Peter Jensen,"USNS Stevens,FPO AA 34201",Todd-Lee,Phone,Medium,217,1875,0.115733333,No,21,Yes
+Richard Lara,"6135 Chad Drive,South Mary, SD 60708",Tucker-Reed,Medical,High,1533,14390,0.106532314,No,20,Yes
+Matthew Lopez,"469 Joshua Row Suite 053,Marcuston, VT 20877",Estrada-Hood,Other,Very low,37,399,0.09273183,No,25,No
+Melissa Mcdowell,"74334 Brett Square,Simston, PA 30801","Chandler, Fields and Porter",Medical,High,1911,14390,0.132800556,No,28,No
+Dawn Moreno,"3175 Nguyen Hill Apt. 150,Ayalaport, AR 08838",Hernandez-Glover,Medical,High,1900,14390,0.132036136,No,21,Yes
+Collin Bowman,"78955 Jason Circles Suite 520,Emilyfort, WI 42328",Moore and Sons,Travel,Low,632,4794,0.131831456,No,19,Yes
+Shannon Rodriguez,"99206 Allen Fork,New Wendychester, PA 18617",Schultz Ltd,Other,Very low,29,399,0.072681704,No,20,Yes
+Mr. Edward Wagner,"879 Hill Plaza,Lake Katie, SC 96026",Ramirez PLC,Medical,High,1624,14390,0.11285615,No,25,No
+Scott Smith,"5271 Anthony Glen Apt. 846,West John, OK 53286",Sellers and Sons,Phone,Medium,261,1875,0.1392,No,24,Yes
+Benjamin Cooper,"489 Garza Well Suite 174,Muellermouth, TN 10655",Roberts-Cummings,Phone,Medium,202,1875,0.107733333,No,23,Yes
+Rebecca Brown,"971 Bowen Points Suite 096,Coxstad, OR 33722","Sullivan, Simmons and Mckee",Other,Very low,84,399,0.210526316,No,24,Yes
+Jason Washington,"Unit 9517 Box 2023,DPO AP 69620",Hurley-Weaver,Phone,Medium,245,1875,0.130666667,No,24,Yes
+Amanda Charles,"9752 Scott Views Suite 804,Greenshire, KS 61910",Johnson-Hancock,Medical,High,1756,14390,0.122029187,No,19,Yes
+Stephanie Jones,"74516 Perry Causeway,East Andrea, AZ 95448",Hill-Davidson,Phone,Medium,225,1875,0.12,No,25,No
+David Harding,"9725 Frazier Square Apt. 068,Brendaburgh, ME 61682",Norris-Turner,Other,Very low,14,399,0.035087719,Yes,26,No
+Christopher Boone,"98571 Cobb Island,Wilsonstad, AL 48247",Roy PLC,Other,Very low,58,399,0.145363409,No,18,Yes
+Michael Wright,"99609 Mcmahon Ridges,East Tracey, MD 61965",Miller-Taylor,Medical,High,1781,14390,0.123766505,No,27,No
+Mark Jones,"2254 Chad Knoll,Robertfurt, TN 07326",Allen PLC,Medical,High,1345,14390,0.093467686,No,24,Yes
+Tiffany Stephenson,"63784 Murphy Trafficway,Melissabury, KS 84357",Hughes LLC,Medical,High,1591,14390,0.110562891,No,20,Yes
+Mr. Jonathan Guzman DDS,"473 Andrews Mountains,Sylviaview, IN 16965",Edwards PLC,Medical,High,1338,14390,0.092981237,No,18,Yes
+Trevor Kim,"PSC 2736, Box 4252,APO AA 28524",Douglas-Waller,Travel,Low,741,4794,0.15456821,No,28,No
+Stephanie Glover,"271 Moore Corner,West Saratown, IN 72331","Weiss, Martinez and Petty",Medical,High,2261,14390,0.157123002,No,28,No
+Zachary Levy,"194 Gonzalez Throughway,Youngland, AK 79686",Olsen-Murphy,Medical,High,2179,14390,0.1514246,No,23,Yes
+Madison Butler,"3713 Jacob Views Suite 599,Jenkinsmouth, UT 48400",Bennett-Velazquez,Travel,Low,414,4794,0.086357947,No,23,Yes
+Brian Kim,"4921 Michael Plaza Apt. 128,Millerburgh, WA 09335","Garrison, Ross and Kaiser",Medical,High,1966,14390,0.136622655,No,28,No
+Kimberly Montoya,"1491 William Prairie,Danielland, NM 60361","Noble, Gutierrez and Gross",Medical,High,1505,14390,0.104586518,No,20,Yes
+Phillip Wood,"1690 Miranda Meadows,North Seanchester, OK 89652",Herring and Sons,Medical,High,1642,14390,0.114107019,No,19,Yes
+Holly Fuentes,"61686 Rodriguez Station Suite 215,West Kenneth, MI 44609",Lopez-Bishop,Phone,Medium,251,1875,0.133866667,No,21,Yes
+Peter Long,"7402 Berry Trail Apt. 601,Brendabury, NV 88988",Moore and Sons,Medical,High,1832,14390,0.127310632,No,22,Yes
+Keith Tucker,"00111 Nicholas Grove,South Connieside, CA 47606","Stewart, Barnes and Smith",Other,Very low,41,399,0.102756892,No,24,Yes
+Chris Tyler,"962 Katherine Estate,East Kathleenmouth, ME 93947",Ortiz-Russell,Medical,High,1870,14390,0.129951355,No,18,Yes
+Anne Nichols,"3706 Fritz Green,Saraborough, MT 51807","Pena, Lewis and Hall",Medical,High,2045,14390,0.142112578,No,20,Yes
+Mrs. Jennifer Duran,"64207 Ashley Glens,West Melissamouth, HI 43950",Romero-Arnold,Travel,Low,575,4794,0.119941594,No,21,Yes
+Michelle Sanders,"2627 Martinez Port,Nunezview, NC 97018","Aguilar, Kelly and Moore",Medical,High,1473,14390,0.102362752,No,28,No
+Tammie Nichols,"1211 Monique Glens,New Laurentown, VA 03152",Mcdonald Inc,Medical,High,1938,14390,0.134676859,No,27,No
+Melissa Robinson,"945 Whitehead Gardens Suite 003,Tateport, SD 43624",Johns-Patel,Medical,High,2097,14390,0.145726199,No,18,Yes
+Andrew Warren,"2372 Johnson Avenue Apt. 425,East Shelleystad, MO 70502",Whitehead-Schwartz,Travel,Low,313,4794,0.065289946,No,21,Yes
+Kimberly Myers,"58362 Michele Island Apt. 295,New Samantha, AK 48577","Barnett, Espinoza and Cox",Medical,High,1543,14390,0.107227241,No,25,No
+Larry Lewis,"4237 Shawn Streets Suite 472,Briannashire, IA 57572","Booker, White and Alvarez",Phone,Medium,218,1875,0.116266667,No,28,No
+Matthew Jackson,"986 Autumn Skyway,South Andrew, IL 30650","Benson, Ball and Mcbride",Phone,Medium,204,1875,0.1088,No,22,Yes
+Paul Nguyen,"276 James Point Apt. 299,Port Vanessa, MD 30102",Anderson-Hamilton,Medical,High,1320,14390,0.091730368,No,28,No
+Thomas Klein,"1713 Mark Springs Apt. 814,Lake John, NJ 88080","Strickland, Davis and Smith",Medical,High,2283,14390,0.158651842,No,27,No
+Kimberly Allen,"7198 Lewis Street Apt. 518,Martinezview, TN 07172",Conway-Byrd,Travel,Low,301,4794,0.062786817,No,27,No
+Lucas Davis,"731 Lambert Court Apt. 455,Parkerhaven, IL 91249",Brown and Sons,Other,Very low,71,399,0.177944862,No,23,Yes
+Heather Sullivan,"088 Cathy Well,Kingfort, OR 45353","Norton, Vasquez and Knox",Medical,High,1762,14390,0.122446143,No,25,No
+Nicholas Sanford,"Unit 4001 Box 3421,DPO AE 45071","Griffith, Hernandez and Park",Medical,High,1508,14390,0.104794997,No,22,Yes
+Clarence Anderson,"0743 Campbell Club Apt. 569,Patrickville, GA 33501",Patrick Group,Medical,High,1536,14390,0.106740792,No,20,Yes
+Sarah Kennedy,"9379 Weber Plains,North Michelle, MA 18845",Haas-White,Medical,High,1918,14390,0.133287005,No,25,No
+Gregory Villa,"2713 Brown Roads,Lake Tanya, AK 16076",Campbell Ltd,Phone,Medium,243,1875,0.1296,No,22,Yes
+Victoria Elliott,"812 Taylor Extension,Autumnborough, IN 29827",Thomas-Reynolds,Medical,High,2003,14390,0.139193885,No,25,No
+Ann Anderson,"1383 Brady Haven Apt. 048,East Johnfurt, KY 46886",Munoz-Frost,Phone,Medium,217,1875,0.115733333,No,26,No
+Lisa Smith,"426 David Ramp Suite 288,East Nathanborough, KY 00770",Garcia-Hunter,Medical,High,2078,14390,0.144405837,No,19,Yes
+Robert Miller,"3032 Jeffrey Center Apt. 590,Coxfort, SC 48615","Sanders, Young and Anderson",Medical,High,2169,14390,0.150729673,No,19,Yes
+Mr. Jordan Decker,"7199 Angela Valley,North Vickieport, ME 79585",Kelly-Campbell,Medical,High,1831,14390,0.12724114,No,23,Yes
+Laura Cooper,"913 Matthew Ports,Leeville, OR 21292",Peters and Sons,Other,Very low,2,399,0.005012531,Yes,27,No
+Bryan Hunter,"0907 Wells Fields,West Theresaborough, MA 33882",Chen-Collier,Phone,Medium,232,1875,0.123733333,No,21,Yes
+Jill Hamilton,"13574 Clark Circle,North Monicafort, CT 45303","Hernandez, Cruz and Larsen",Phone,Medium,218,1875,0.116266667,No,20,Yes
+Maxwell Garcia,"9052 Donna Mills Apt. 061,Christophershire, SC 92182",Cohen Group,Medical,High,1385,14390,0.096247394,No,18,Yes
+James Griffin,"05460 David Island,Wrightland, PA 00651","Gonzales, May and Oliver",Medical,High,2125,14390,0.147671994,No,26,No
+Jimmy Mcconnell,"92451 Jessica Passage Suite 348,New Daniel, LA 78518",Miller-Mitchell,Travel,Low,718,4794,0.149770547,No,22,Yes
+Cathy Raymond,"18778 Rick Summit,Vargasberg, MI 64910",Mendoza-Reeves,Other,Very low,83,399,0.20802005,No,18,Yes
+Matthew Ferguson,"1681 Sharon Islands,Georgeview, CO 59350",Ortiz and Sons,Medical,High,2137,14390,0.148505907,No,27,No
+Tiffany Collier MD,"41259 Katherine Street Suite 558,Lawrenceview, KY 89311",Moore-Schroeder,Medical,High,2021,14390,0.140444753,No,19,Yes
+Tyler Cummings,"698 Jacobs Oval,Harringtonshire, OH 53242","Miller, Andrews and Thompson",Phone,Medium,249,1875,0.1328,No,22,Yes
+Michael Kim,"027 Sean Camp,Port Joseph, CO 35674","Bailey, Patel and Deleon",Phone,Medium,210,1875,0.112,No,23,Yes
+John Key,"435 Johnson Junction Apt. 979,Morenoberg, IL 09020",Chandler-Smith,Other,Very low,68,399,0.170426065,No,22,Yes
+Hannah Proctor,"593 David Via Apt. 351,Wardville, CT 86754",Saunders and Sons,Medical,High,1474,14390,0.102432245,No,20,Yes
+Michelle Gallagher,"67708 Larson Street,Larsonfort, SD 20635",Ortega-Reyes,Other,Very low,17,399,0.042606516,Yes,23,Yes
+Clifford Ramirez,"009 Long Vista,Kingside, MN 27568",Dunn Inc,Medical,High,1855,14390,0.128908965,No,20,Yes
+Julie Howard,"179 Williams Cliffs,West Jasonhaven, IA 46413",Zamora-Scott,Phone,Medium,261,1875,0.1392,No,26,No
+Jason Kerr,"USNV Mcintyre,FPO AE 95174",Rodriguez-Washington,Other,Very low,8,399,0.020050125,Yes,23,Yes
+Dennis Murphy,"618 Kristina Parks,East Aimeemouth, ID 01053",Woodard Ltd,Medical,High,2066,14390,0.143571925,No,18,Yes
+Charles Crawford,"PSC 1086, Box 2135,APO AP 27334",Delacruz-Graves,Other,Very low,10,399,0.025062657,Yes,27,No
+Patricia Morgan,"4743 Alicia Coves,Mannburgh, WY 54264",Williams-Mccullough,Medical,High,1654,14390,0.114940931,No,23,Yes
+Kim Avila,"9202 Daniel Fields,Matthewtown, KY 36194",Stevenson Inc,Medical,High,1446,14390,0.100486449,No,20,Yes
+Allen Butler,"1432 Simpson Brook Apt. 153,Port Patrickfort, MO 91971",Welch PLC,Phone,Medium,200,1875,0.106666667,No,22,Yes
+Johnny Williams,"116 Suzanne Haven Apt. 202,Kristenland, ND 93389",Murray-Gordon,Other,Very low,25,399,0.062656642,No,25,No
+Sara West,"843 Carla Cove Suite 288,Port Louis, OH 72052",Harrington-Montgomery,Other,Very low,38,399,0.095238095,No,19,Yes
+Michael Waters,"36269 Corey Stream Suite 523,Brandonview, NC 74241",Brown PLC,Medical,High,1424,14390,0.098957609,No,27,No
+Phillip Payne,"569 John Spurs,Huntburgh, OR 13762",Johnson-Meyer,Phone,Medium,205,1875,0.109333333,No,25,No
+Courtney Cantu,"3565 Mann Hills,Lake Lindsey, IL 34011",Carter-Burton,Travel,Low,616,4794,0.128493951,No,27,No
+Juan Smith,"84400 Dixon Squares,North Emilyberg, FL 46157",Mccormick-Smith,Travel,Low,443,4794,0.092407176,No,20,Yes
+William Bell,"291 Lopez Parks,Sharpfort, KY 05313",Sellers-Sanchez,Medical,High,1833,14390,0.127380125,No,24,Yes
+Mitchell Wallace DDS,"824 Morris Locks Apt. 130,Martinside, NY 33259",Hayes-Cruz,Medical,High,1667,14390,0.115844336,No,24,Yes
+Christine Gonzalez,"8371 Stephanie Mountain,Port Nathanstad, ID 22598",Andersen PLC,Phone,Medium,260,1875,0.138666667,No,27,No
+Katrina Turner,"PSC 3755, Box 5126,APO AA 66602",Mays Inc,Travel,Low,418,4794,0.087192324,No,25,No
+Melissa Friedman,"Unit 0007 Box 5234,DPO AA 69193",Taylor LLC,Other,Very low,32,399,0.080200501,No,26,No
+Allison Gregory,"95817 Curry Field Apt. 249,Danielmouth, AK 61233","Maldonado, Sawyer and Todd",Medical,High,1658,14390,0.115218902,No,25,No
+Monica Day,"099 Bolton Underpass,East Nicholasburgh, IA 91354","Miranda, Mata and Flores",Phone,Medium,208,1875,0.110933333,No,28,No
+Alice Anderson,"8229 Higgins Parkway,Antonioborough, NC 09917",Stewart-Hicks,Phone,Medium,215,1875,0.114666667,No,23,Yes
+Kristin Bray,"124 Julie Land Suite 709,North Jeffreychester, CA 82318",Nelson Inc,Medical,High,2050,14390,0.142460042,No,25,No
+Jamie Romero,"53981 Brian Mills,West Ericatown, WA 38805",Armstrong LLC,Travel,Low,737,4794,0.153733834,No,26,No
+Jeremiah Brown,"726 Sherry Divide,South Brittney, ND 18273","Marquez, Simpson and Garrett",Other,Very low,36,399,0.090225564,No,23,Yes
+Christina Jones,"054 Frances Lights Suite 365,Port Jillfort, FL 34132","Weaver, Smith and Anderson",Medical,High,1640,14390,0.113968033,No,28,No
+Laura Pratt,"543 Neal Summit Apt. 556,New Jeffreystad, OK 45513",Small and Sons,Medical,High,1676,14390,0.116469771,No,21,Yes
+Micheal Chang Jr.,"85351 Ryan Land,West Michelle, MO 01246",Olson-Rogers,Medical,High,1631,14390,0.113342599,No,28,No
+Sergio Dunn,"966 Charles Greens,West Ryan, OR 47985","Logan, Richardson and Vargas",Travel,Low,359,4794,0.074885273,No,18,Yes
+Melissa Kent,"Unit 9410 Box 3148,DPO AP 07530",Wagner-Owens,Medical,High,1481,14390,0.102918694,No,24,Yes
+Johnny Patterson,"5768 Jeanne Plain,Mcmillanborough, NE 41543","Gallagher, Walker and Hamilton",Travel,Low,450,4794,0.093867334,No,21,Yes
+Scott Macdonald,"24694 Kristy Village Suite 384,Jamesfurt, KY 66422","Washington, Valenzuela and Campos",Medical,High,1837,14390,0.127658096,No,25,No
+Brandon Rose,"04426 Alexis Bypass,North Christineland, SD 18503","Tucker, Young and Carey",Medical,High,2280,14390,0.158443363,No,25,No
+Thomas Chung,"22615 Eduardo Squares,Gutierreztown, RI 76389",Williams-Chen,Medical,High,1687,14390,0.11723419,No,26,No
+Jacob Thomas,"1469 Jones Road,New Larryside, WY 68079",Lopez LLC,Travel,Low,497,4794,0.103671256,No,26,No
+Jonathan Garcia,"083 Peterson Roads,Maureenville, NV 83697","Green, Little and Park",Medical,High,1474,14390,0.102432245,No,27,No
+Tanya Chandler,"3553 Melissa Lane,Davismouth, NC 72788",Neal-Gutierrez,Medical,High,1915,14390,0.133078527,No,26,No
+Matthew Bailey,"9942 Carlson Port Apt. 859,East Candace, NJ 52083","Boyd, Jackson and Kelley",Phone,Medium,253,1875,0.134933333,No,20,Yes
+Samantha Mullen,"8912 David Summit,Lewisborough, AZ 13343","Hawkins, Hawkins and Bird",Medical,High,1570,14390,0.109103544,No,28,No
+Lisa Watkins,"938 Guzman Forks,West Jasmineville, MN 66916",Yates-Allen,Phone,Medium,202,1875,0.107733333,No,23,Yes
+Jeremy Manning,"USCGC Fernandez,FPO AE 97162",Newman-Gibson,Medical,High,1398,14390,0.097150799,No,28,No
+Kevin Mitchell,"283 Kennedy Vista Suite 100,Port Gregory, NH 80467","Smith, Johnson and Whitaker",Medical,High,2047,14390,0.142251564,No,24,Yes
+Stephanie Mccall,"659 Ralph Shoals,Port Davidview, SD 61314",Shaw-Adkins,Medical,High,1536,14390,0.106740792,No,18,Yes
+Lisa Anderson,"9843 Thornton Meadows Suite 941,North Jaredbury, IA 73094",Dixon LLC,Phone,Medium,235,1875,0.125333333,No,20,Yes
+Kaylee Taylor,"24888 Nixon Haven,Myersmouth, NC 74009","Greene, Campos and Lewis",Medical,High,1657,14390,0.115149409,No,24,Yes
+Daniel Wilson,"952 David Gateway Suite 076,Lake Ruben, WI 48981","Schwartz, Garcia and Mccall",Medical,High,2272,14390,0.157887422,No,23,Yes
+Michael Vaughan,"700 Troy Glens,Patrickburgh, WV 30939",Alvarez Ltd,Medical,High,1866,14390,0.129673384,No,23,Yes
+Brittany Farmer,"3007 Valdez Gardens,West Angelaland, FL 24113",Rivera-Simpson,Medical,High,2252,14390,0.156497568,No,25,No
+Denise Brown,"76767 Barker Lights Apt. 330,West Brandi, KY 90255","Morse, Guzman and Hicks",Medical,High,1981,14390,0.137665045,No,26,No
+Juan Potts,"1868 Thomas Row,Kyleland, GA 15928","Miller, Williams and Perry",Medical,High,1650,14390,0.11466296,No,22,Yes
+Whitney Gutierrez,"103 Kelly Loop Apt. 765,Coleton, VA 56885","Kelley, Harris and Murphy",Medical,High,1595,14390,0.110840862,No,26,No
+Cheryl Garcia,"67726 Morgan Land Suite 120,Port Michael, MA 10640",Summers and Sons,Travel,Low,888,4794,0.185231539,No,28,No
+Melissa Vaughn,"1117 Hinton Prairie,New Crystalfort, NV 23685",Short Ltd,Medical,High,2010,14390,0.139680334,No,22,Yes
+Diana Gutierrez,"2107 Estrada Track,South Vanessaport, SC 23627",Pittman-King,Other,Very low,92,399,0.230576441,No,28,No
+Laura Garcia,"2474 Hannah Motorway Apt. 978,South Daniel, TN 47269","Thompson, Davis and Adams",Travel,Low,643,4794,0.134125991,No,24,Yes
+Nicole Wright,"6039 Margaret Mountain,South Matthewchester, GA 85734","Alvarado, Burns and Obrien",Medical,High,2120,14390,0.147324531,No,25,No
+Anthony Foster,"7316 Susan Freeway Apt. 955,Lake Alexandraton, OK 02200",Gregory-Kelly,Medical,High,1386,14390,0.096316887,No,20,Yes
+Cameron Wood,"8908 Garcia Lakes Apt. 899,West Samuel, DE 31043","Alvarez, Schmidt and May",Medical,High,1759,14390,0.122237665,No,25,No
+Alec Sweeney,"USS Santiago,FPO AE 91046",Lee PLC,Travel,Low,400,4794,0.08343763,No,27,No
+Gwendolyn Fisher,"319 Linda Shoals Suite 105,Lake Timothy, WY 60867",Choi Ltd,Medical,High,1724,14390,0.11980542,No,20,Yes
+Paul Marshall,"6319 Caitlin Gateway,North Steven, KS 03944",Montoya-Williams,Medical,High,1581,14390,0.109867964,No,28,No
+Kristen Calhoun,"21156 Cynthia Spur Apt. 791,Jamesfurt, TN 18655",Mayo-Joseph,Medical,High,2136,14390,0.148436414,No,27,No
+Peter Zimmerman,"8492 Brett View,Lewiston, NY 88129",Duke-Rangel,Phone,Medium,269,1875,0.143466667,No,26,No
+Colleen Lawrence,"15310 Tanya Grove,Jamesbury, OR 65681","Jones, Long and Mcdonald",Medical,High,2020,14390,0.140375261,No,27,No
+Deborah Huang,"626 Mays Lodge Apt. 623,Gwendolynville, OR 86075","King, Shaw and Hunter",Medical,High,1938,14390,0.134676859,No,24,Yes
+Elizabeth Woodward,"52850 Jessica Lodge,East Christopherburgh, IN 12908",Chavez-Mason,Medical,High,1868,14390,0.12981237,No,27,No
+Rodney Dougherty,"77366 Leonard Fort Suite 946,Smithside, TX 55248","Reyes, Mccoy and Lopez",Travel,Low,770,4794,0.160617438,No,24,Yes
+Zachary Chang,"3696 Garcia Prairie Suite 215,Christinaport, WY 74770","Hull, Joseph and Diaz",Medical,High,2151,14390,0.149478805,No,25,No
+Michael Martin,"3672 Winters Circle,West Tyler, IL 75926","Austin, Smith and Knox",Medical,High,1788,14390,0.124252953,No,25,No
+Elizabeth Buckley,"1458 Scott Circles,New Carla, NY 48100",Jones LLC,Other,Very low,87,399,0.218045113,No,18,Yes
+Christine Bowman,"55320 Stephanie Ford Suite 117,West Christinafort, KS 38897",Heath and Sons,Medical,High,1662,14390,0.115496873,No,24,Yes
+Kenneth Nolan,"1617 Freeman Ferry Apt. 370,Mccormickland, KS 53547",Mcclure-Phillips,Medical,High,1695,14390,0.117790132,No,22,Yes
+Justin Murray,"4644 Williams Villages Suite 590,New Stephenfort, AK 27850","Gonzalez, Mitchell and Cole",Medical,High,2261,14390,0.157123002,No,19,Yes
+Erica Williams,"99258 Lewis Fort,Tracymouth, UT 51891",Leonard PLC,Medical,High,2287,14390,0.158929812,No,24,Yes
+Benjamin Chavez,"68324 Castaneda Turnpike Suite 023,North Jamesport, IA 04358",Spencer Inc,Phone,Medium,268,1875,0.142933333,No,18,Yes
+Mark Greer,"416 Lawson Fork,Robinsonview, MN 26121",Ewing-Allison,Medical,High,1862,14390,0.129395413,No,24,Yes
+Michael Harvey,"696 Singleton Curve,Port Jerryshire, NV 17647","Hodge, Stone and Bell",Travel,Low,682,4794,0.14226116,No,20,Yes
+Chad Wilson,"895 Reyes Green,Wesleybury, TN 67199","Giles, Mcgee and Mejia",Phone,Medium,263,1875,0.140266667,No,19,Yes
+Mark Blevins,"PSC 5693, Box 6415,APO AE 87200",Baker LLC,Phone,Medium,231,1875,0.1232,No,20,Yes
+Alexander Hughes,"71922 Williams Ford Apt. 125,Port Williamfort, NE 47756","Scott, Burns and Williams",Medical,High,1418,14390,0.098540653,No,18,Yes
+James Ford,"USNS Perez,FPO AE 09175",Dominguez LLC,Medical,High,2091,14390,0.145309243,No,19,Yes
+Connie Bailey,"43564 Kelsey Alley Suite 742,Chaseside, KS 96375",Schmidt-Martinez,Other,Very low,19,399,0.047619048,Yes,24,Yes
+Aimee Warner,"15034 Yvette Plains,Hudsonfurt, NE 84879",Lowery PLC,Medical,High,1696,14390,0.117859625,No,26,No
+Jesse Pena,"4574 Tanner Street,West Kendraberg, KS 07749","Silva, Casey and Haynes",Medical,High,1632,14390,0.113412092,No,20,Yes
+Bryan Sawyer,"321 Caldwell Ports,Gabrielport, NM 81168",Monroe PLC,Medical,High,2022,14390,0.140514246,No,26,No
+Michael Yu,"4061 Stone Street Suite 105,East Laura, AR 36834","Williams, Maldonado and Lynn",Medical,High,1408,14390,0.097845726,No,22,Yes
+Karen Franco,"195 Johnson Turnpike,New Kevin, ND 99177",Stone-Coleman,Travel,Low,319,4794,0.06654151,No,18,Yes
+Greg Garcia,"6330 Melissa Forges,Melissahaven, AZ 61369","Thompson, Barajas and Mayo",Phone,Medium,225,1875,0.12,No,18,Yes
+Lisa Jackson,"263 Mary Oval Apt. 237,East Chris, NJ 13631",Thomas LLC,Phone,Medium,201,1875,0.1072,No,20,Yes
+Carol Boyd,"43705 Robbins Rue Suite 006,Pamelaport, PA 42582","Barnes, Cook and Stone",Phone,Medium,214,1875,0.114133333,No,20,Yes
+Allen Webster,"08260 John Club,New Victoriaville, WV 24831",Newman-Thompson,Other,Very low,23,399,0.05764411,Yes,20,Yes
+April Crawford,"04409 Michelle Square,Richardburgh, OH 88226",Jacobs PLC,Medical,High,1823,14390,0.126685198,No,27,No
+Charles Martin,"73426 Mary Grove Apt. 069,Kellichester, CT 10821","Duncan, Jones and Escobar",Phone,Medium,248,1875,0.132266667,No,28,No
+Curtis Estes,"6735 Waters Lock Suite 016,Bennettshire, KS 31941",Pruitt Inc,Phone,Medium,201,1875,0.1072,No,28,No
+Vanessa Cross DDS,"70976 Rogers Harbors,Lake Yolanda, AR 08346","Sanchez, Miller and Potter",Medical,High,1724,14390,0.11980542,No,19,Yes
+Andre Andersen,"24553 Hill Brooks,West Nicole, MO 55350","Wells, Duffy and Thomas",Travel,Low,457,4794,0.095327493,No,18,Yes
+Trevor Harris,"866 Chapman Knoll,Reevesberg, MI 58315",Smith-Turner,Travel,Low,500,4794,0.104297038,No,21,Yes
+Shannon Anderson,"USS Moreno,FPO AA 56947","Fields, Sanders and Mercer",Medical,High,1350,14390,0.093815149,No,22,Yes
+Vernon Garcia,"9490 Rachel Glens Apt. 590,Michaelbury, AL 90589",Rivers-Spencer,Phone,Medium,269,1875,0.143466667,No,28,No
+Wesley White,"8899 Barrett River,Rachelstad, VT 44389",Hodges-Lewis,Medical,High,1570,14390,0.109103544,No,24,Yes
+Lori Adams,"22341 Mason Roads,Morrisonstad, MT 38981",Morgan-Liu,Phone,Medium,267,1875,0.1424,No,18,Yes
+Mr. Richard Campbell,"36017 Janice Landing,West Keith, KS 51362",Castillo Ltd,Phone,Medium,230,1875,0.122666667,No,21,Yes
+Tara Ramos,"7518 Julie Extensions Apt. 451,Davidhaven, HI 00983",Larsen-Knight,Medical,High,1318,14390,0.091591383,No,28,No
+Thomas Miller,"5041 Young Circle Suite 951,Dennisshire, NM 02242",Williams and Sons,Medical,High,1746,14390,0.12133426,No,23,Yes
+Anthony Meyers,"USNS Adams,FPO AE 56191","Allen, Nelson and Rice",Medical,High,1714,14390,0.119110493,No,28,No
+Kathy Adams,"46174 Gutierrez Track Apt. 337,West Shawnfort, CA 67405",Baker-Carter,Travel,Low,480,4794,0.100125156,No,28,No
+Virginia Smith,"16905 Torres Rapids,North Gregoryville, NM 74601",Newman-Fisher,Medical,High,1626,14390,0.112995136,No,28,No
+Timothy Evans,"186 James Island,North Sara, AR 96211","Orr, Gibson and Gutierrez",Medical,High,1310,14390,0.091035441,No,23,Yes
+Connor Lewis,"384 Castaneda Rue Suite 904,North Rebeccachester, IA 98274","Fitzgerald, Martinez and Swanson",Medical,High,1526,14390,0.106045865,No,28,No
+Mary Moreno,"924 Burgess Streets Apt. 178,North Dana, MT 36134",Gilbert-Wilson,Travel,Low,883,4794,0.184188569,No,20,Yes
+Christine Murphy,"88442 Amanda Shores,South Andrewchester, SC 09851",West and Sons,Other,Very low,16,399,0.040100251,Yes,26,No
+Eric Brown,"79202 Mackenzie Alley,New Todd, NC 78450",Howard and Sons,Travel,Low,409,4794,0.085314977,No,18,Yes
+Lucas Martin,"PSC 8981, Box 9616,APO AE 83504",Ward PLC,Travel,Low,647,4794,0.134960367,No,20,Yes
+Michael Stewart,"675 Scott Route,Philipview, IL 48625",Carpenter-Bean,Other,Very low,94,399,0.235588972,No,27,No
+Mrs. Alexandra Durham,"Unit 3926 Box 4517,DPO AA 45209",Martinez-Henry,Medical,High,1932,14390,0.134259903,No,22,Yes
+Donald Crawford,"USNS Smith,FPO AA 20211",Patel PLC,Phone,Medium,241,1875,0.128533333,No,22,Yes
+John Davis,"PSC 3384, Box 9112,APO AE 59444",Campbell-Roberts,Travel,Low,458,4794,0.095536087,No,21,Yes
+Steven Gray,"5691 Andre Club,Garciafurt, MO 99182",Barron LLC,Medical,High,2118,14390,0.147185546,No,25,No
+John Johnson,"782 Armstrong Fork,Lake Stephanieside, CA 09869",Kim-Gordon,Medical,High,1645,14390,0.114315497,No,28,No
+John Heath,"738 Johnson Ferry Apt. 724,Graychester, NE 61055",Mcdonald-Adams,Medical,High,1857,14390,0.12904795,No,21,Yes
+Pamela Roberts,"698 Tiffany Shores,North Josephport, CO 83768","Ramirez, Martin and Crawford",Other,Very low,7,399,0.01754386,Yes,28,No
+David Flores,"04117 Teresa Green,East Gregory, HI 55444",Richardson Ltd,Travel,Low,608,4794,0.126825198,No,26,No
+Jennifer Reyes,"1573 John Rue Suite 093,New Kathleen, KS 16711","Singh, Campbell and Murphy",Medical,High,1464,14390,0.101737318,No,20,Yes
+Erica Walker,"23311 Silva Court Apt. 513,South Thomas, AR 55764",Hall-Hill,Other,Very low,16,399,0.040100251,Yes,24,Yes
+Daniel Page,"69374 Powell Vista,Westborough, OK 11181",Brown LLC,Medical,High,2292,14390,0.159277276,No,27,No
+Joshua Woodard,"Unit 0201 Box 1446,DPO AA 82007","Pennington, Roy and Brennan",Medical,High,1747,14390,0.121403753,No,19,Yes
+Patrick Morris,"Unit 5194 Box 1102,DPO AP 82129",Nguyen-Bradley,Medical,High,1845,14390,0.128214038,No,27,No
+Matthew Howell,"92402 Zachary Motorway,New Zachary, DC 28205",Williams-Beard,Medical,High,1687,14390,0.11723419,No,28,No
+Kristen Jones,"8814 Robert Knoll,West Ambermouth, SC 65095","Rollins, Morales and Butler",Other,Very low,19,399,0.047619048,Yes,21,Yes
+Jennifer Mckenzie,"595 Martinez Common,New Tracy, SD 24072",Bell-Jones,Other,Very low,24,399,0.060150376,No,27,No
+Joshua Rodriguez,"535 Samuel Via Suite 123,Marcborough, KY 75409",Cardenas LLC,Medical,High,1578,14390,0.109659486,No,20,Yes
+Brad Williams,"Unit 6249 Box 1753,DPO AE 45766","Beasley, Freeman and Carr",Travel,Low,699,4794,0.145807259,No,20,Yes
+Lisa Hernandez,"30011 Wilson Terrace Apt. 591,East Jamesborough, WY 12532",Fernandez-Rivera,Medical,High,2078,14390,0.144405837,No,19,Yes
+Linda Garcia,"44571 Teresa Fields Apt. 025,West Denise, OK 20883",Newman-Robertson,Other,Very low,40,399,0.100250627,No,26,No
+Donna Moore,"58453 Cruz Terrace Suite 978,Timothymouth, ME 71847","Clark, Mendoza and Simmons",Medical,High,1794,14390,0.12466991,No,23,Yes
+Cody Gentry,"06724 Woods Parkway,Coxborough, KY 97567","Wright, Elliott and Frost",Other,Very low,68,399,0.170426065,No,18,Yes
+Robin Morris,"444 Brianna Parks,New Rachel, IA 63851",Bruce-Gould,Medical,High,1416,14390,0.098401668,No,22,Yes
+Michael Hernandez,"4780 Daniel Path,Cynthiamouth, WV 11273",Wu Group,Medical,High,1499,14390,0.104169562,No,22,Yes
+Michelle Patel,"106 Kyle Hollow,Alexfort, RI 02012",Carr-Wright,Medical,High,2092,14390,0.145378735,No,21,Yes
+Hannah Townsend,"2843 Stephanie Spur,Liuborough, MN 00988",Ross-Phillips,Phone,Medium,219,1875,0.1168,No,25,No
+Scott Pope,"5019 Mcgee Roads Apt. 086,Amyshire, WV 91079","Duarte, Smith and Hamilton",Phone,Medium,222,1875,0.1184,No,23,Yes
+Michael Pugh,"493 Garcia Parkways,Port Jasonfurt, TN 11417",Smith Inc,Medical,High,1401,14390,0.097359277,No,24,Yes
+Stephanie Diaz,"520 Kathy Trail,Myersberg, SC 93322",Wallace Ltd,Medical,High,1329,14390,0.092355803,No,18,Yes
+Elizabeth Turner,"711 Mcdonald Stream,Rodriguezstad, NH 14710",Warren-Bryant,Medical,High,1722,14390,0.119666435,No,20,Yes
+Alan Daniels,"Unit 1377 Box 2427,DPO AE 11863",Wilson Ltd,Medical,High,1643,14390,0.114176511,No,27,No
+Chris Rice,"9657 Johnson Vista,East Josetown, UT 33123",Austin and Sons,Medical,High,1461,14390,0.101528839,No,28,No
+Carolyn Potts,"PSC 2388, Box 6051,APO AA 16890",Garza LLC,Phone,Medium,212,1875,0.113066667,No,20,Yes
+Grant Garcia,"0587 Jones Fort Suite 644,East Alyssa, LA 90600","Martin, Williams and Hardy",Medical,High,2137,14390,0.148505907,No,25,No
+Craig Pena,"PSC 1970, Box 6104,APO AE 63250","Knight, Guzman and Kelly",Travel,Low,487,4794,0.101585315,No,24,Yes
+Linda Matthews,"98762 Shannon Villages Suite 094,Port Maryside, MS 52543",Freeman Group,Medical,High,1515,14390,0.105281445,No,24,Yes
+Katelyn Jackson,"2020 Steven Groves,Shafferhaven, ND 73045",Williams-Christian,Other,Very low,72,399,0.180451128,No,21,Yes
